@@ -1,0 +1,2001 @@
+order_id,product_id,category,region,sales_amount,quantity,customer_age,customer_gender,order_date
+1,1016,Home Goods,North,1960.68,4,22,Non-Binary,5/21/2024
+2,1046,Electronics,West,410.05,1,25,Male,4/18/2024
+3,1075,Accessories,South,2409.45,5,34,Non-Binary,3/25/2024
+4,1176,Home Goods,South,2355.03,9,28,Female,1/15/2024
+5,1152,Electronics,North,2073.42,6,30,Female,5/22/2024
+6,1080,Home Goods,West,3417.88,9,38,Non-Binary,1/7/2024
+7,1040,Sneakers,North,942.72,5,68,Non-Binary,2/29/2024
+8,1162,Sneakers,West,2944.52,9,22,Female,1/16/2024
+9,1015,Electronics,East,1624.58,4,58,Female,4/7/2024
+10,1180,Accessories,North,574.3,4,34,Male,2/1/2024
+11,1073,Accessories,North,3965.18,8,68,Female,1/23/2024
+12,1035,Home Goods,West,669.62,9,32,Non-Binary,3/7/2024
+13,1056,Accessories,South,1714.82,7,24,Non-Binary,1/30/2024
+14,1000,Accessories,North,283.55,1,41,Male,1/26/2024
+15,1059,Apparel,North,3295.14,10,34,Female,5/14/2024
+16,1160,Sneakers,North,1273.53,6,66,Male,5/3/2024
+17,1114,Home Goods,West,1380.12,6,54,Male,3/21/2024
+18,1087,Electronics,South,63.01,4,40,Female,1/1/2024
+19,1133,Apparel,South,249.8,3,65,Non-Binary,4/15/2024
+20,1191,Electronics,North,419.6,7,45,Male,5/5/2024
+21,1120,Apparel,South,68.33,2,40,Female,5/18/2024
+22,1070,Accessories,South,1280.23,5,41,Non-Binary,5/5/2024
+23,1065,Apparel,East,1088.02,6,33,Male,4/7/2024
+24,1164,Sneakers,North,1796.04,5,47,Non-Binary,5/17/2024
+25,1180,Accessories,North,56.99,1,62,Non-Binary,3/20/2024
+26,1045,Sneakers,South,2532.08,7,65,Female,4/18/2024
+27,1033,Apparel,West,486.17,6,43,Female,3/25/2024
+28,1008,Electronics,North,1754.02,8,62,Male,5/20/2024
+29,1051,Home Goods,South,2089.46,8,69,Female,2/2/2024
+30,1116,Electronics,South,1660.56,4,61,Female,5/9/2024
+31,1057,Sneakers,West,2430.22,7,33,Male,2/9/2024
+32,1038,Apparel,East,1026.05,9,48,Non-Binary,3/9/2024
+33,1154,Apparel,North,4107.09,10,50,Male,4/10/2024
+34,1055,Apparel,East,2125.57,5,19,Female,5/24/2024
+35,1103,Home Goods,West,1352.01,7,51,Male,3/3/2024
+36,1016,Home Goods,South,1118.95,6,21,Female,2/2/2024
+37,1010,Sneakers,East,559.45,6,50,Male,1/31/2024
+38,1061,Accessories,South,211,2,59,Non-Binary,1/17/2024
+39,1029,Apparel,South,2683.64,6,62,Non-Binary,5/14/2024
+40,1005,Sneakers,South,1100.87,4,52,Male,4/14/2024
+41,1123,Accessories,East,349.45,9,47,Male,1/12/2024
+42,1110,Apparel,North,3457.83,9,22,Male,4/18/2024
+43,1038,Apparel,West,3262.51,7,62,Female,5/1/2024
+44,1037,Electronics,East,905.97,10,22,Non-Binary,4/9/2024
+45,1169,Accessories,East,1577.68,7,33,Female,1/20/2024
+46,1149,Home Goods,West,84.93,1,52,Male,2/11/2024
+47,1132,Electronics,West,1132.79,3,50,Non-Binary,3/29/2024
+48,1079,Sneakers,South,466.79,4,41,Non-Binary,2/5/2024
+49,1136,Apparel,North,1114.72,9,36,Male,4/26/2024
+50,1004,Apparel,West,2444.53,6,66,Female,5/2/2024
+51,1192,Electronics,West,1002.08,4,19,Male,2/1/2024
+52,1195,Sneakers,West,2285.4,9,20,Non-Binary,2/29/2024
+53,1080,Home Goods,East,3973.51,10,49,Male,2/18/2024
+54,1033,Apparel,East,216.06,9,43,Female,5/20/2024
+55,1145,Sneakers,North,1119.27,9,34,Male,1/10/2024
+56,1184,Sneakers,West,2157.93,8,55,Non-Binary,4/9/2024
+57,1120,Apparel,South,2736.92,7,48,Male,4/2/2024
+58,1059,Apparel,East,2491.24,5,23,Non-Binary,1/8/2024
+59,1027,Sneakers,North,2832.64,6,29,Male,5/27/2024
+60,1027,Sneakers,North,873.57,4,50,Non-Binary,4/3/2024
+61,1114,Home Goods,West,2778.33,8,37,Male,3/20/2024
+62,1145,Sneakers,East,2082.88,5,18,Female,3/1/2024
+63,1048,Apparel,North,3377.78,8,57,Female,1/4/2024
+64,1104,Electronics,West,268.65,3,39,Male,3/31/2024
+65,1008,Electronics,West,3300.21,9,43,Non-Binary,5/13/2024
+66,1062,Accessories,West,700.29,6,27,Non-Binary,1/29/2024
+67,1052,Sneakers,North,1709.86,4,57,Female,2/23/2024
+68,1086,Electronics,West,36.75,3,54,Male,1/4/2024
+69,1030,Accessories,West,213.04,8,60,Non-Binary,3/17/2024
+70,1080,Home Goods,West,2002.21,6,29,Non-Binary,2/4/2024
+71,1146,Home Goods,West,844.47,2,31,Male,1/22/2024
+72,1069,Accessories,East,1332.28,5,52,Male,2/10/2024
+73,1035,Home Goods,North,910.51,7,36,Non-Binary,5/4/2024
+74,1080,Home Goods,West,2573.07,6,57,Male,3/17/2024
+75,1026,Electronics,North,1017,4,24,Non-Binary,1/19/2024
+76,1176,Home Goods,East,577.56,4,41,Non-Binary,2/9/2024
+77,1063,Home Goods,East,412.33,3,34,Female,5/19/2024
+78,1172,Sneakers,East,1030.92,7,34,Non-Binary,2/27/2024
+79,1007,Sneakers,North,1686.05,4,24,Non-Binary,1/6/2024
+80,1169,Accessories,North,1365.25,4,26,Non-Binary,3/24/2024
+81,1195,Sneakers,North,248.36,2,26,Non-Binary,2/11/2024
+82,1090,Accessories,West,620.04,2,31,Non-Binary,4/11/2024
+83,1100,Accessories,West,3312.91,7,48,Female,5/21/2024
+84,1020,Apparel,North,2965.21,7,47,Female,3/30/2024
+85,1159,Apparel,West,640.7,3,61,Female,2/13/2024
+86,1081,Apparel,East,826.24,5,31,Non-Binary,5/6/2024
+87,1163,Electronics,North,2375.96,6,40,Male,4/15/2024
+88,1136,Apparel,South,1944.88,6,62,Female,2/25/2024
+89,1065,Apparel,North,766.84,10,28,Male,3/29/2024
+90,1037,Electronics,East,3226.62,10,40,Male,1/4/2024
+91,1081,Apparel,East,821.79,6,28,Non-Binary,4/6/2024
+92,1104,Electronics,East,333.61,2,56,Male,5/21/2024
+93,1187,Accessories,North,1076.29,3,29,Male,2/13/2024
+94,1021,Apparel,West,2940.92,10,57,Non-Binary,1/28/2024
+95,1135,Accessories,South,3337.63,9,65,Non-Binary,3/3/2024
+96,1120,Apparel,West,2973.32,8,52,Male,2/13/2024
+97,1070,Accessories,North,1148.07,3,53,Female,3/20/2024
+98,1056,Accessories,South,131.2,6,22,Male,3/14/2024
+99,1033,Apparel,North,2224.92,7,24,Non-Binary,4/10/2024
+100,1129,Home Goods,North,1208.77,6,59,Non-Binary,1/18/2024
+101,1118,Home Goods,South,94.11,2,26,Female,5/19/2024
+102,1036,Home Goods,South,256.6,8,70,Non-Binary,3/21/2024
+103,1094,Electronics,North,2719.71,7,40,Male,4/4/2024
+104,1086,Electronics,West,877.96,5,64,Female,4/8/2024
+105,1106,Sneakers,East,16.17,1,24,Male,4/6/2024
+106,1130,Electronics,East,497.66,3,54,Female,3/12/2024
+107,1019,Accessories,East,223.37,2,52,Male,5/10/2024
+108,1127,Accessories,South,2687.92,7,68,Female,1/3/2024
+109,1043,Apparel,South,674.74,2,27,Non-Binary,1/12/2024
+110,1140,Sneakers,West,1532.54,9,32,Female,1/14/2024
+111,1124,Apparel,East,3378.4,7,40,Female,5/4/2024
+112,1136,Apparel,North,34.83,3,39,Male,2/10/2024
+113,1005,Sneakers,North,2232.25,9,70,Non-Binary,4/22/2024
+114,1195,Sneakers,North,3523.43,9,58,Non-Binary,5/19/2024
+115,1170,Apparel,North,539.67,3,62,Female,4/27/2024
+116,1082,Accessories,West,122.87,5,29,Non-Binary,1/24/2024
+117,1127,Accessories,South,296.72,8,52,Non-Binary,2/10/2024
+118,1151,Accessories,West,871.85,2,36,Male,2/10/2024
+119,1066,Electronics,North,852.91,2,40,Male,3/2/2024
+120,1196,Home Goods,East,397.03,8,66,Male,2/9/2024
+121,1059,Apparel,West,1172.49,8,35,Non-Binary,1/28/2024
+122,1101,Accessories,West,1924.39,5,56,Female,5/13/2024
+123,1180,Accessories,West,367.6,4,47,Female,5/3/2024
+124,1053,Apparel,North,1274.02,4,56,Non-Binary,1/31/2024
+125,1131,Accessories,South,909.05,3,46,Female,5/1/2024
+126,1022,Apparel,North,226.39,1,26,Male,1/6/2024
+127,1091,Sneakers,West,260.76,1,53,Female,5/9/2024
+128,1129,Home Goods,North,2184,6,52,Female,3/16/2024
+129,1096,Electronics,West,1246.58,5,19,Male,1/6/2024
+130,1031,Home Goods,West,484.11,6,22,Male,1/26/2024
+131,1107,Sneakers,East,2742.2,7,67,Female,4/16/2024
+132,1146,Home Goods,East,4147.87,10,39,Male,5/2/2024
+133,1065,Apparel,South,856.22,2,59,Male,5/31/2024
+134,1136,Apparel,North,574.12,2,23,Non-Binary,5/11/2024
+135,1087,Electronics,South,1223.07,3,33,Non-Binary,2/18/2024
+136,1028,Apparel,East,3806.85,9,38,Non-Binary,3/6/2024
+137,1062,Accessories,North,573.24,2,70,Male,4/2/2024
+138,1004,Apparel,South,2160.32,5,34,Non-Binary,3/16/2024
+139,1085,Accessories,North,4063.24,10,69,Male,3/10/2024
+140,1048,Apparel,West,2688.94,7,55,Non-Binary,5/17/2024
+141,1114,Home Goods,South,731.8,3,68,Female,2/11/2024
+142,1067,Accessories,North,1892.24,8,55,Female,1/28/2024
+143,1028,Apparel,North,1648.42,6,46,Non-Binary,5/20/2024
+144,1021,Apparel,North,113.03,2,39,Non-Binary,4/28/2024
+145,1117,Home Goods,West,255.73,4,55,Male,5/21/2024
+146,1050,Apparel,North,3800.63,10,32,Non-Binary,3/14/2024
+147,1199,Accessories,North,3506.8,8,28,Female,3/10/2024
+148,1143,Accessories,East,3054.05,10,55,Male,3/10/2024
+149,1046,Electronics,North,1144.42,5,65,Non-Binary,3/29/2024
+150,1169,Accessories,West,2613.12,8,41,Non-Binary,3/2/2024
+151,1131,Accessories,West,2531.03,7,31,Male,4/9/2024
+152,1054,Apparel,North,1970.91,8,62,Male,4/3/2024
+153,1143,Accessories,North,4080.27,10,29,Male,4/28/2024
+154,1104,Electronics,North,119.1,1,53,Male,5/19/2024
+155,1167,Sneakers,North,124.6,2,56,Male,4/30/2024
+156,1111,Accessories,East,649.64,3,44,Female,5/15/2024
+157,1005,Sneakers,East,879.48,2,22,Non-Binary,1/30/2024
+158,1194,Electronics,West,881.07,3,25,Non-Binary,3/20/2024
+159,1074,Home Goods,South,1764.47,5,56,Female,4/25/2024
+160,1121,Electronics,East,250.93,2,29,Female,1/13/2024
+161,1058,Accessories,East,3508.07,9,52,Male,2/18/2024
+162,1144,Sneakers,East,705.36,2,69,Female,2/23/2024
+163,1096,Electronics,North,3149.2,7,52,Male,1/20/2024
+164,1131,Accessories,West,1507.39,5,51,Female,1/25/2024
+165,1110,Apparel,East,1867.77,4,51,Non-Binary,1/27/2024
+166,1127,Accessories,South,1461.9,7,42,Female,5/23/2024
+167,1029,Apparel,West,4272.93,10,46,Male,3/16/2024
+168,1149,Home Goods,North,308.41,1,31,Female,3/25/2024
+169,1138,Apparel,West,977.47,4,47,Non-Binary,1/8/2024
+170,1012,Electronics,East,1081.82,6,19,Female,3/14/2024
+171,1145,Sneakers,North,463.18,1,38,Female,1/11/2024
+172,1155,Apparel,East,93.36,1,23,Female,1/3/2024
+173,1091,Sneakers,South,1707.76,4,66,Non-Binary,5/25/2024
+174,1174,Sneakers,West,641.39,3,69,Non-Binary,1/23/2024
+175,1199,Accessories,East,2210.17,5,44,Male,1/6/2024
+176,1126,Electronics,West,2711.56,10,55,Male,4/24/2024
+177,1151,Accessories,South,2360.64,7,41,Female,1/31/2024
+178,1147,Accessories,South,1993.15,4,51,Male,3/21/2024
+179,1121,Electronics,South,617.99,6,61,Female,2/16/2024
+180,1097,Sneakers,East,399.43,10,38,Male,2/17/2024
+181,1010,Sneakers,South,4468.03,9,33,Male,3/2/2024
+182,1065,Apparel,North,1162.04,3,58,Non-Binary,3/28/2024
+183,1045,Sneakers,North,1861.25,4,45,Non-Binary,1/18/2024
+184,1047,Home Goods,East,809.85,4,69,Male,1/10/2024
+185,1187,Accessories,West,1457.95,7,36,Non-Binary,5/24/2024
+186,1197,Accessories,East,786.48,2,55,Male,1/19/2024
+187,1086,Electronics,East,386.93,2,57,Male,3/20/2024
+188,1088,Apparel,South,78.15,4,59,Female,5/2/2024
+189,1073,Accessories,West,1665.19,10,70,Female,3/12/2024
+190,1188,Electronics,West,2591.76,6,44,Non-Binary,2/24/2024
+191,1141,Sneakers,West,1669.33,7,33,Non-Binary,2/26/2024
+192,1173,Home Goods,North,1624.93,5,29,Male,5/16/2024
+193,1007,Sneakers,West,3908,9,21,Non-Binary,5/1/2024
+194,1104,Electronics,South,548.55,7,61,Female,2/2/2024
+195,1071,Accessories,East,995.14,4,50,Non-Binary,5/26/2024
+196,1032,Apparel,North,2607.96,7,60,Female,3/16/2024
+197,1086,Electronics,West,338.35,2,65,Male,3/7/2024
+198,1167,Sneakers,North,2344.73,6,31,Male,5/4/2024
+199,1156,Home Goods,West,4187.2,9,48,Female,1/10/2024
+200,1086,Electronics,North,536.17,4,29,Non-Binary,3/1/2024
+201,1042,Sneakers,South,600.93,3,40,Male,5/9/2024
+202,1189,Home Goods,West,65.42,3,68,Male,1/10/2024
+203,1165,Electronics,East,250.53,6,42,Non-Binary,4/24/2024
+204,1125,Apparel,West,438.56,8,30,Non-Binary,2/14/2024
+205,1098,Accessories,North,842.43,9,25,Non-Binary,2/9/2024
+206,1182,Sneakers,West,3052.66,8,64,Female,2/15/2024
+207,1101,Accessories,West,524.07,2,52,Female,5/27/2024
+208,1038,Apparel,South,154.9,2,49,Non-Binary,4/13/2024
+209,1166,Home Goods,East,2914.69,7,36,Non-Binary,2/5/2024
+210,1079,Sneakers,West,925.31,6,54,Male,1/11/2024
+211,1031,Home Goods,North,2310.35,5,26,Non-Binary,1/25/2024
+212,1034,Accessories,South,947.88,3,66,Non-Binary,2/23/2024
+213,1125,Apparel,East,96.99,3,30,Female,5/22/2024
+214,1079,Sneakers,West,279.8,7,35,Male,2/28/2024
+215,1043,Apparel,East,2557.72,6,48,Male,2/5/2024
+216,1183,Apparel,South,1218.33,3,19,Female,1/6/2024
+217,1179,Sneakers,North,435.23,2,38,Male,1/1/2024
+218,1162,Sneakers,East,4799.87,10,60,Male,4/1/2024
+219,1113,Apparel,North,2966.12,7,36,Female,4/25/2024
+220,1049,Apparel,North,401.43,1,40,Male,1/12/2024
+221,1096,Electronics,North,676.66,7,49,Female,1/14/2024
+222,1074,Home Goods,West,711.14,3,20,Non-Binary,2/24/2024
+223,1143,Accessories,West,56.45,1,61,Female,4/22/2024
+224,1106,Sneakers,South,845.85,7,58,Male,2/22/2024
+225,1110,Apparel,West,2840.71,7,53,Female,3/10/2024
+226,1127,Accessories,East,704.5,2,50,Female,5/13/2024
+227,1004,Apparel,West,359.33,3,31,Female,1/21/2024
+228,1195,Sneakers,West,529.19,7,67,Male,3/24/2024
+229,1038,Apparel,South,744.65,2,34,Male,5/8/2024
+230,1192,Electronics,South,798.76,4,48,Non-Binary,3/27/2024
+231,1087,Electronics,South,922.24,3,21,Non-Binary,4/22/2024
+232,1086,Electronics,North,667.46,4,55,Male,5/24/2024
+233,1113,Apparel,North,885.31,7,31,Non-Binary,2/22/2024
+234,1086,Electronics,North,2489.1,10,53,Male,3/25/2024
+235,1164,Sneakers,South,295.51,1,33,Female,1/9/2024
+236,1154,Apparel,East,915.45,9,45,Non-Binary,4/4/2024
+237,1129,Home Goods,North,953.4,2,67,Female,5/20/2024
+238,1154,Apparel,East,464.09,5,64,Male,5/3/2024
+239,1030,Accessories,East,2457.2,7,59,Non-Binary,5/2/2024
+240,1079,Sneakers,South,428.16,10,48,Male,4/21/2024
+241,1027,Sneakers,South,1106.19,4,53,Female,4/28/2024
+242,1085,Accessories,East,957.92,5,54,Non-Binary,3/8/2024
+243,1074,Home Goods,East,191.98,1,30,Male,2/18/2024
+244,1065,Apparel,West,1509.81,6,31,Male,2/27/2024
+245,1016,Home Goods,North,530.31,3,33,Non-Binary,2/7/2024
+246,1094,Electronics,South,1529.88,6,46,Male,3/28/2024
+247,1077,Apparel,North,1035.17,8,50,Male,4/13/2024
+248,1080,Home Goods,East,977.43,2,48,Non-Binary,5/15/2024
+249,1027,Sneakers,North,2009.75,10,50,Female,3/29/2024
+250,1123,Accessories,North,523.5,10,34,Male,1/19/2024
+251,1111,Accessories,North,2226.88,5,21,Male,5/28/2024
+252,1026,Electronics,North,3369.77,7,50,Male,3/27/2024
+253,1175,Accessories,West,4265.82,10,46,Female,2/11/2024
+254,1186,Electronics,West,686.95,9,18,Male,3/14/2024
+255,1174,Sneakers,North,3325.59,10,20,Female,4/5/2024
+256,1045,Sneakers,East,1262.52,7,38,Male,4/3/2024
+257,1194,Electronics,West,65.04,2,50,Female,2/14/2024
+258,1185,Apparel,West,18.85,1,52,Female,2/9/2024
+259,1193,Electronics,North,3373.72,7,28,Non-Binary,2/22/2024
+260,1096,Electronics,East,349.63,4,65,Female,4/21/2024
+261,1044,Home Goods,North,647.62,2,50,Non-Binary,5/22/2024
+262,1180,Accessories,West,2548.34,6,55,Non-Binary,1/25/2024
+263,1148,Sneakers,West,965.62,5,66,Non-Binary,2/18/2024
+264,1191,Electronics,East,646.77,4,69,Non-Binary,3/24/2024
+265,1072,Home Goods,South,51.35,2,41,Male,3/28/2024
+266,1004,Apparel,East,1260.12,3,65,Non-Binary,4/3/2024
+267,1115,Electronics,North,241.15,4,68,Female,2/16/2024
+268,1170,Apparel,West,1833.57,5,34,Male,3/10/2024
+269,1028,Apparel,South,396.02,2,61,Female,1/30/2024
+270,1179,Sneakers,West,313.75,8,27,Non-Binary,1/12/2024
+271,1036,Home Goods,North,1143.16,6,43,Male,3/28/2024
+272,1019,Accessories,West,1379.58,6,61,Male,1/26/2024
+273,1045,Sneakers,East,672.97,6,49,Non-Binary,5/2/2024
+274,1101,Accessories,West,304.48,1,30,Non-Binary,5/28/2024
+275,1019,Accessories,West,3168.66,10,31,Female,4/20/2024
+276,1132,Electronics,South,1810.2,7,34,Male,3/5/2024
+277,1117,Home Goods,East,1617.39,9,65,Non-Binary,3/1/2024
+278,1113,Apparel,North,169.76,4,53,Non-Binary,1/29/2024
+279,1024,Electronics,South,2903.87,9,29,Female,3/28/2024
+280,1016,Home Goods,East,712.22,6,21,Male,1/1/2024
+281,1105,Apparel,West,261.05,4,37,Female,4/2/2024
+282,1084,Home Goods,North,2449.53,9,70,Male,2/12/2024
+283,1063,Home Goods,North,888.56,2,67,Male,1/14/2024
+284,1136,Apparel,North,2455.07,6,22,Male,5/10/2024
+285,1105,Apparel,North,3362.27,9,42,Non-Binary,3/15/2024
+286,1028,Apparel,North,2301.01,5,31,Male,5/30/2024
+287,1174,Sneakers,South,1264.18,3,42,Male,2/24/2024
+288,1091,Sneakers,South,561.99,8,38,Non-Binary,5/1/2024
+289,1138,Apparel,North,1010.54,5,56,Male,2/4/2024
+290,1126,Electronics,North,1529.22,10,69,Female,3/17/2024
+291,1087,Electronics,South,2017.95,7,38,Male,1/2/2024
+292,1100,Accessories,East,1759.78,7,64,Male,4/12/2024
+293,1165,Electronics,South,2150.75,6,67,Non-Binary,5/8/2024
+294,1179,Sneakers,West,3072.36,7,23,Female,1/8/2024
+295,1031,Home Goods,North,1769.79,5,20,Male,2/9/2024
+296,1026,Electronics,East,967.28,2,35,Male,1/24/2024
+297,1159,Apparel,South,943.01,5,67,Male,2/28/2024
+298,1050,Apparel,East,1922.54,7,42,Non-Binary,3/24/2024
+299,1011,Apparel,East,2410.09,9,63,Female,4/23/2024
+300,1174,Sneakers,South,3230.17,8,36,Male,5/18/2024
+301,1107,Sneakers,West,837.02,5,48,Non-Binary,5/20/2024
+302,1036,Home Goods,South,1447.36,8,44,Non-Binary,5/1/2024
+303,1007,Sneakers,North,677.11,9,40,Non-Binary,3/21/2024
+304,1146,Home Goods,North,3721.8,10,58,Male,5/1/2024
+305,1113,Apparel,West,2855.29,9,60,Female,2/13/2024
+306,1124,Apparel,East,215.5,5,34,Female,1/17/2024
+307,1108,Electronics,South,1837.57,10,45,Non-Binary,5/14/2024
+308,1081,Apparel,West,885.45,5,67,Female,3/27/2024
+309,1122,Electronics,North,38.68,1,57,Male,2/9/2024
+310,1109,Accessories,West,828.28,10,32,Male,4/25/2024
+311,1021,Apparel,West,75.92,6,34,Female,3/6/2024
+312,1146,Home Goods,South,1140.06,7,47,Female,3/22/2024
+313,1092,Accessories,East,1536.27,6,32,Non-Binary,2/2/2024
+314,1008,Electronics,South,1105.28,7,39,Non-Binary,5/15/2024
+315,1020,Apparel,West,2646.66,9,56,Male,1/29/2024
+316,1103,Home Goods,South,1018.07,7,40,Male,3/16/2024
+317,1080,Home Goods,South,118.64,3,48,Female,2/8/2024
+318,1122,Electronics,East,4628.03,10,53,Female,3/10/2024
+319,1059,Apparel,West,2490.48,6,64,Non-Binary,3/30/2024
+320,1093,Electronics,South,981.46,9,68,Non-Binary,4/1/2024
+321,1170,Apparel,West,907.19,5,23,Non-Binary,1/17/2024
+322,1141,Sneakers,West,1612.37,6,57,Male,4/1/2024
+323,1199,Accessories,South,899,10,34,Male,3/10/2024
+324,1040,Sneakers,West,3772.95,8,46,Male,2/23/2024
+325,1003,Home Goods,South,1177.95,3,31,Male,1/19/2024
+326,1118,Home Goods,West,2274.95,5,50,Non-Binary,1/22/2024
+327,1105,Apparel,North,1673.89,7,20,Male,4/24/2024
+328,1086,Electronics,East,1343.84,4,31,Non-Binary,1/29/2024
+329,1151,Accessories,South,1442.86,3,40,Male,5/22/2024
+330,1075,Accessories,South,1269.19,3,52,Male,3/3/2024
+331,1176,Home Goods,South,2783.52,10,52,Non-Binary,3/11/2024
+332,1049,Apparel,South,2421.31,7,20,Male,4/30/2024
+333,1051,Home Goods,East,1434.96,10,60,Non-Binary,4/12/2024
+334,1079,Sneakers,North,135.29,2,30,Female,2/10/2024
+335,1134,Electronics,North,563.68,4,50,Non-Binary,4/10/2024
+336,1031,Home Goods,South,692.04,3,53,Non-Binary,4/23/2024
+337,1012,Electronics,North,357.06,10,70,Female,5/11/2024
+338,1127,Accessories,South,1527.74,5,27,Female,3/20/2024
+339,1018,Apparel,West,1232.53,3,65,Male,4/10/2024
+340,1198,Sneakers,South,1808.58,9,69,Non-Binary,3/24/2024
+341,1144,Sneakers,East,549.85,9,41,Male,4/18/2024
+342,1192,Electronics,West,188.65,1,39,Male,5/20/2024
+343,1163,Electronics,West,1314.65,6,29,Female,4/24/2024
+344,1057,Sneakers,South,2428.71,5,19,Non-Binary,5/25/2024
+345,1153,Home Goods,East,579.67,2,59,Non-Binary,5/24/2024
+346,1016,Home Goods,East,205.19,1,70,Female,2/27/2024
+347,1132,Electronics,South,1768.24,5,57,Female,2/22/2024
+348,1141,Sneakers,South,478.34,6,20,Female,4/27/2024
+349,1160,Sneakers,North,670.52,4,57,Non-Binary,1/30/2024
+350,1103,Home Goods,South,3837.28,8,41,Female,4/10/2024
+351,1188,Electronics,East,4246.79,10,64,Non-Binary,3/9/2024
+352,1083,Apparel,South,332.14,5,50,Male,4/24/2024
+353,1197,Accessories,South,383,3,52,Female,2/15/2024
+354,1178,Electronics,West,23.33,1,58,Female,4/15/2024
+355,1036,Home Goods,North,998.68,2,65,Female,5/10/2024
+356,1016,Home Goods,North,3077.23,10,35,Female,5/24/2024
+357,1083,Apparel,North,3106.32,10,32,Non-Binary,2/4/2024
+358,1192,Electronics,East,2808.85,9,32,Male,2/20/2024
+359,1078,Electronics,East,142.77,2,61,Non-Binary,5/9/2024
+360,1102,Home Goods,West,198.35,1,61,Female,5/12/2024
+361,1121,Electronics,South,2947.22,7,34,Female,4/28/2024
+362,1057,Sneakers,South,1431.39,6,21,Female,1/13/2024
+363,1186,Electronics,North,720.46,9,23,Non-Binary,4/18/2024
+364,1135,Accessories,South,2131.6,7,70,Male,3/11/2024
+365,1119,Home Goods,East,742.84,3,39,Female,4/2/2024
+366,1094,Electronics,West,1324.46,3,36,Non-Binary,5/19/2024
+367,1129,Home Goods,West,2626.53,9,46,Non-Binary,4/27/2024
+368,1147,Accessories,West,560.12,8,35,Non-Binary,4/14/2024
+369,1064,Electronics,West,797.94,7,57,Non-Binary,2/29/2024
+370,1186,Electronics,North,662.02,2,40,Non-Binary,5/17/2024
+371,1026,Electronics,West,1564.01,5,22,Female,3/8/2024
+372,1144,Sneakers,North,979.13,2,46,Non-Binary,5/23/2024
+373,1027,Sneakers,East,1837.92,8,46,Non-Binary,2/25/2024
+374,1115,Electronics,West,376.02,2,26,Male,2/15/2024
+375,1035,Home Goods,South,1318.06,5,42,Female,3/20/2024
+376,1112,Apparel,East,3844.94,8,50,Female,5/24/2024
+377,1038,Apparel,South,209.16,9,70,Female,1/26/2024
+378,1038,Apparel,South,450.58,8,37,Non-Binary,4/7/2024
+379,1196,Home Goods,East,1457.28,6,53,Male,3/2/2024
+380,1092,Accessories,West,627.03,5,29,Female,1/25/2024
+381,1170,Apparel,East,1057.77,3,22,Non-Binary,3/7/2024
+382,1052,Sneakers,West,429.56,1,24,Male,1/1/2024
+383,1187,Accessories,North,3046.67,7,31,Male,2/7/2024
+384,1055,Apparel,South,1446.48,3,34,Female,2/18/2024
+385,1070,Accessories,West,737.89,2,45,Female,2/21/2024
+386,1158,Accessories,East,2361.53,5,53,Male,3/3/2024
+387,1181,Sneakers,South,2462.16,9,61,Male,4/16/2024
+388,1129,Home Goods,North,1329.41,9,21,Male,4/14/2024
+389,1097,Sneakers,East,173.31,1,69,Male,4/29/2024
+390,1172,Sneakers,South,713.79,4,29,Non-Binary,2/17/2024
+391,1105,Apparel,North,2275.66,7,38,Non-Binary,5/11/2024
+392,1117,Home Goods,East,2688.2,10,65,Female,2/9/2024
+393,1166,Home Goods,West,566.3,10,66,Male,3/11/2024
+394,1011,Apparel,South,1573.02,9,53,Male,4/7/2024
+395,1071,Accessories,South,2174.35,5,67,Female,4/1/2024
+396,1037,Electronics,North,929.78,3,18,Male,1/12/2024
+397,1131,Accessories,South,1257.63,8,61,Non-Binary,5/31/2024
+398,1155,Apparel,North,558.87,4,49,Male,5/9/2024
+399,1158,Accessories,North,557.58,10,40,Female,5/29/2024
+400,1005,Sneakers,East,3563.5,8,46,Male,4/27/2024
+401,1056,Accessories,East,2672.66,8,31,Male,1/1/2024
+402,1186,Electronics,North,368.94,1,19,Female,3/10/2024
+403,1060,Sneakers,West,190.85,1,32,Female,3/17/2024
+404,1106,Sneakers,North,2493.34,6,23,Non-Binary,3/23/2024
+405,1035,Home Goods,East,1817.26,7,24,Non-Binary,1/19/2024
+406,1137,Home Goods,South,241.03,1,48,Male,3/1/2024
+407,1145,Sneakers,East,847.52,10,18,Male,5/16/2024
+408,1122,Electronics,North,173.88,1,69,Female,1/13/2024
+409,1073,Accessories,East,2288.57,7,69,Female,2/18/2024
+410,1051,Home Goods,East,163.91,7,45,Male,3/6/2024
+411,1082,Accessories,West,630.64,3,46,Male,1/16/2024
+412,1032,Apparel,East,1315.91,3,26,Female,4/23/2024
+413,1086,Electronics,North,630.35,3,60,Male,2/3/2024
+414,1101,Accessories,South,1219.1,7,65,Male,4/24/2024
+415,1109,Accessories,West,1079.91,9,58,Non-Binary,1/2/2024
+416,1042,Sneakers,North,650.27,7,27,Male,4/29/2024
+417,1108,Electronics,West,297.31,6,42,Male,4/11/2024
+418,1083,Apparel,East,99.82,1,20,Non-Binary,2/24/2024
+419,1101,Accessories,West,23.81,1,25,Non-Binary,3/5/2024
+420,1031,Home Goods,North,713.39,3,27,Female,2/17/2024
+421,1082,Accessories,South,96.81,7,44,Female,3/27/2024
+422,1082,Accessories,East,36.54,1,61,Female,3/25/2024
+423,1186,Electronics,North,1884.42,6,39,Female,2/10/2024
+424,1158,Accessories,East,691.52,5,50,Female,1/5/2024
+425,1196,Home Goods,West,153.52,3,35,Male,4/10/2024
+426,1083,Apparel,North,2773.78,8,54,Non-Binary,3/17/2024
+427,1180,Accessories,East,2982.07,7,65,Non-Binary,2/18/2024
+428,1016,Home Goods,West,193.89,4,68,Non-Binary,5/13/2024
+429,1000,Accessories,East,1559.94,8,65,Non-Binary,2/5/2024
+430,1088,Apparel,East,164.45,1,58,Female,1/12/2024
+431,1154,Apparel,South,1221.13,10,20,Non-Binary,1/15/2024
+432,1013,Sneakers,West,648.66,2,62,Female,3/3/2024
+433,1017,Accessories,West,1153.35,5,26,Male,4/27/2024
+434,1003,Home Goods,North,997.64,2,59,Male,1/28/2024
+435,1077,Apparel,North,522.03,4,55,Male,3/15/2024
+436,1114,Home Goods,South,2219.77,6,21,Non-Binary,3/4/2024
+437,1120,Apparel,South,2111.16,10,41,Male,1/27/2024
+438,1076,Sneakers,South,482.93,10,53,Male,5/25/2024
+439,1042,Sneakers,North,4533.86,10,18,Female,5/11/2024
+440,1051,Home Goods,West,1086.23,4,50,Non-Binary,3/19/2024
+441,1036,Home Goods,West,3860.29,10,40,Female,5/13/2024
+442,1167,Sneakers,West,1485.97,10,21,Non-Binary,2/3/2024
+443,1049,Apparel,East,971.3,8,70,Non-Binary,3/31/2024
+444,1060,Sneakers,North,493.64,2,27,Male,5/9/2024
+445,1159,Apparel,West,2749.39,9,68,Non-Binary,4/16/2024
+446,1051,Home Goods,South,2511.81,10,43,Non-Binary,2/8/2024
+447,1065,Apparel,South,1334.42,4,36,Non-Binary,2/6/2024
+448,1127,Accessories,West,1175.54,3,20,Male,1/23/2024
+449,1157,Electronics,North,3242.13,9,26,Female,5/26/2024
+450,1003,Home Goods,North,2187.22,5,27,Non-Binary,4/10/2024
+451,1025,Sneakers,East,144.81,3,70,Non-Binary,3/7/2024
+452,1016,Home Goods,West,4829.12,10,22,Female,5/11/2024
+453,1025,Sneakers,West,109.68,8,40,Male,1/17/2024
+454,1132,Electronics,North,1359.86,4,68,Male,5/1/2024
+455,1126,Electronics,East,1009.16,3,18,Female,1/15/2024
+456,1184,Sneakers,East,964.62,7,24,Male,3/7/2024
+457,1031,Home Goods,North,1387.03,7,31,Non-Binary,1/27/2024
+458,1173,Home Goods,West,771.21,2,29,Non-Binary,5/26/2024
+459,1189,Home Goods,East,371.77,3,38,Female,3/16/2024
+460,1020,Apparel,West,676.56,5,18,Non-Binary,3/21/2024
+461,1040,Sneakers,East,2193.32,7,33,Female,2/19/2024
+462,1158,Accessories,North,1845.9,7,25,Male,2/11/2024
+463,1020,Apparel,South,2063.47,7,34,Non-Binary,5/29/2024
+464,1148,Sneakers,North,137.93,2,52,Male,4/29/2024
+465,1028,Apparel,North,2369.29,5,32,Non-Binary,3/31/2024
+466,1107,Sneakers,North,1796.6,9,23,Female,4/30/2024
+467,1144,Sneakers,West,706.88,2,48,Male,2/6/2024
+468,1070,Accessories,North,980.8,4,21,Male,3/3/2024
+469,1132,Electronics,North,1439.93,8,68,Non-Binary,5/10/2024
+470,1011,Apparel,South,276.68,1,67,Non-Binary,1/15/2024
+471,1179,Sneakers,West,2397.07,10,52,Female,4/5/2024
+472,1058,Accessories,North,3115.48,8,38,Non-Binary,3/2/2024
+473,1197,Accessories,West,1309.42,4,70,Female,2/8/2024
+474,1146,Home Goods,North,771.36,3,27,Non-Binary,2/4/2024
+475,1080,Home Goods,North,3965.82,9,41,Male,2/1/2024
+476,1004,Apparel,West,2993.24,6,38,Non-Binary,2/13/2024
+477,1190,Sneakers,West,2988.58,6,64,Female,5/26/2024
+478,1098,Accessories,West,562.98,5,32,Male,5/26/2024
+479,1043,Apparel,South,460.96,10,34,Female,5/15/2024
+480,1068,Apparel,South,532.97,3,49,Female,3/11/2024
+481,1014,Accessories,North,1100.93,4,65,Non-Binary,2/25/2024
+482,1107,Sneakers,West,866.29,5,59,Non-Binary,3/28/2024
+483,1001,Sneakers,West,2719.87,9,56,Non-Binary,2/2/2024
+484,1107,Sneakers,East,2790.48,7,65,Non-Binary,1/17/2024
+485,1083,Apparel,South,1410.08,7,64,Female,5/27/2024
+486,1086,Electronics,West,1227.83,5,59,Female,5/13/2024
+487,1102,Home Goods,West,74.47,2,62,Male,1/3/2024
+488,1067,Accessories,East,2362.77,10,36,Male,1/28/2024
+489,1082,Accessories,West,1950.83,4,39,Male,4/15/2024
+490,1102,Home Goods,East,1739.82,10,42,Female,5/13/2024
+491,1045,Sneakers,West,212.11,4,53,Female,1/29/2024
+492,1055,Apparel,West,1812.06,10,37,Male,2/11/2024
+493,1074,Home Goods,North,2675.35,6,64,Female,2/25/2024
+494,1109,Accessories,South,783.91,7,46,Male,2/20/2024
+495,1152,Electronics,North,1154.08,4,31,Female,5/5/2024
+496,1094,Electronics,East,4430,9,70,Female,1/17/2024
+497,1152,Electronics,North,1990.17,7,43,Non-Binary,3/18/2024
+498,1170,Apparel,North,1527.54,10,29,Male,3/15/2024
+499,1060,Sneakers,West,437.44,1,48,Non-Binary,5/15/2024
+500,1008,Electronics,East,67.89,2,47,Non-Binary,1/26/2024
+501,1067,Accessories,East,1289.01,3,70,Female,1/18/2024
+502,1184,Sneakers,West,829.83,9,65,Male,4/12/2024
+503,1189,Home Goods,North,4024.9,10,66,Female,2/10/2024
+504,1145,Sneakers,South,181.24,2,26,Non-Binary,5/11/2024
+505,1126,Electronics,East,1089.84,3,42,Male,2/24/2024
+506,1062,Accessories,West,775.27,5,38,Female,1/15/2024
+507,1088,Apparel,North,773.62,10,21,Non-Binary,4/23/2024
+508,1153,Home Goods,East,381.38,3,44,Non-Binary,4/14/2024
+509,1049,Apparel,South,692.16,5,59,Non-Binary,1/7/2024
+510,1068,Apparel,East,1337.66,9,63,Male,3/4/2024
+511,1111,Accessories,East,587.17,2,50,Female,4/25/2024
+512,1058,Accessories,West,1002.85,6,61,Non-Binary,3/18/2024
+513,1112,Apparel,East,1863.48,4,49,Female,2/5/2024
+514,1145,Sneakers,East,1892.6,7,64,Male,1/7/2024
+515,1152,Electronics,North,260.88,2,63,Male,1/22/2024
+516,1091,Sneakers,West,1292.38,4,36,Non-Binary,2/12/2024
+517,1027,Sneakers,East,572.67,8,48,Male,4/13/2024
+518,1060,Sneakers,East,996.13,2,49,Male,2/25/2024
+519,1128,Accessories,West,1238.17,8,59,Female,5/10/2024
+520,1133,Apparel,North,305.81,1,19,Male,1/4/2024
+521,1122,Electronics,South,744.67,2,50,Male,4/4/2024
+522,1192,Electronics,East,1915.9,10,19,Male,2/23/2024
+523,1169,Accessories,East,247.71,2,29,Female,1/20/2024
+524,1012,Electronics,South,401.99,6,18,Male,4/17/2024
+525,1099,Home Goods,South,2964.3,6,48,Female,3/18/2024
+526,1077,Apparel,West,949.84,8,46,Male,2/16/2024
+527,1163,Electronics,South,1149.41,5,20,Non-Binary,1/18/2024
+528,1020,Apparel,East,208.72,1,50,Male,5/1/2024
+529,1104,Electronics,South,1867.13,7,46,Non-Binary,3/4/2024
+530,1049,Apparel,South,1876.24,4,32,Female,2/14/2024
+531,1073,Accessories,West,1324.77,6,61,Male,2/27/2024
+532,1089,Sneakers,East,1149.56,10,58,Female,2/5/2024
+533,1005,Sneakers,North,1679.98,5,31,Male,4/10/2024
+534,1016,Home Goods,West,3224.97,8,22,Non-Binary,4/22/2024
+535,1150,Electronics,West,4285.93,9,66,Non-Binary,5/24/2024
+536,1020,Apparel,South,181.15,2,21,Female,3/20/2024
+537,1173,Home Goods,South,1740.49,4,56,Female,5/25/2024
+538,1175,Accessories,West,531.44,2,42,Male,5/8/2024
+539,1052,Sneakers,East,449.36,1,43,Male,5/8/2024
+540,1124,Apparel,West,2429.45,9,68,Male,5/8/2024
+541,1152,Electronics,West,697.41,4,58,Male,3/9/2024
+542,1141,Sneakers,East,366.85,1,46,Male,2/12/2024
+543,1146,Home Goods,North,2590.91,8,49,Male,3/9/2024
+544,1029,Apparel,South,2717.82,8,60,Male,2/16/2024
+545,1168,Accessories,South,1882.85,8,19,Non-Binary,3/17/2024
+546,1117,Home Goods,East,311.74,1,65,Female,3/7/2024
+547,1096,Electronics,North,1709.84,4,52,Non-Binary,5/2/2024
+548,1003,Home Goods,West,656.47,3,19,Male,5/18/2024
+549,1034,Accessories,South,2148.12,10,45,Female,4/11/2024
+550,1007,Sneakers,North,4137,10,62,Female,1/7/2024
+551,1196,Home Goods,South,263.5,1,40,Female,1/1/2024
+552,1105,Apparel,West,350.05,2,49,Male,5/18/2024
+553,1141,Sneakers,South,1641.7,6,32,Male,1/1/2024
+554,1096,Electronics,West,373.26,4,59,Male,3/7/2024
+555,1065,Apparel,East,814.09,5,19,Male,3/8/2024
+556,1064,Electronics,West,1287.32,4,52,Non-Binary,4/14/2024
+557,1047,Home Goods,South,2645.29,8,24,Male,3/23/2024
+558,1100,Accessories,North,2797.33,6,28,Female,4/11/2024
+559,1083,Apparel,North,304.11,1,48,Male,2/6/2024
+560,1164,Sneakers,East,1653,4,46,Female,5/22/2024
+561,1150,Electronics,East,1646.97,7,53,Male,3/19/2024
+562,1188,Electronics,East,1307.94,4,46,Male,1/19/2024
+563,1016,Home Goods,East,2923.78,6,65,Non-Binary,2/13/2024
+564,1164,Sneakers,West,229.49,1,61,Female,2/27/2024
+565,1093,Electronics,North,811.87,4,48,Non-Binary,3/22/2024
+566,1074,Home Goods,West,819.56,4,67,Female,2/12/2024
+567,1060,Sneakers,North,2759.37,9,25,Female,4/10/2024
+568,1162,Sneakers,West,4030.74,10,40,Non-Binary,3/25/2024
+569,1129,Home Goods,East,1256,6,41,Non-Binary,5/4/2024
+570,1033,Apparel,East,3667.03,8,32,Male,4/7/2024
+571,1140,Sneakers,North,4768.28,10,55,Female,3/22/2024
+572,1099,Home Goods,West,960.38,8,39,Male,3/12/2024
+573,1189,Home Goods,West,250.91,3,69,Male,1/10/2024
+574,1032,Apparel,South,2218.3,9,56,Female,2/29/2024
+575,1141,Sneakers,East,197.61,9,51,Non-Binary,4/29/2024
+576,1044,Home Goods,East,389.14,3,31,Female,5/25/2024
+577,1100,Accessories,West,785.39,2,30,Non-Binary,5/16/2024
+578,1199,Accessories,North,922.99,3,42,Female,1/7/2024
+579,1109,Accessories,East,332.03,4,47,Male,5/13/2024
+580,1147,Accessories,North,367.88,2,55,Female,1/26/2024
+581,1114,Home Goods,East,40.66,1,31,Female,1/1/2024
+582,1046,Electronics,East,523.01,2,29,Male,1/10/2024
+583,1031,Home Goods,East,3176.64,10,44,Male,3/28/2024
+584,1043,Apparel,North,1117.12,6,48,Non-Binary,4/16/2024
+585,1089,Sneakers,North,465.12,3,63,Female,3/31/2024
+586,1044,Home Goods,East,340.58,2,40,Non-Binary,2/14/2024
+587,1170,Apparel,West,3711.62,8,38,Male,1/21/2024
+588,1001,Sneakers,West,784.95,9,38,Non-Binary,3/24/2024
+589,1053,Apparel,South,658.86,6,64,Female,5/10/2024
+590,1089,Sneakers,North,139.3,2,59,Non-Binary,5/19/2024
+591,1106,Sneakers,South,444.55,1,55,Male,2/5/2024
+592,1128,Accessories,South,2822.07,8,30,Non-Binary,5/5/2024
+593,1073,Accessories,West,4186.05,10,47,Female,1/3/2024
+594,1195,Sneakers,South,1868.8,4,45,Male,1/1/2024
+595,1120,Apparel,South,564.85,6,60,Female,3/8/2024
+596,1040,Sneakers,North,1417.48,4,45,Female,5/11/2024
+597,1047,Home Goods,North,1520.86,9,61,Female,5/6/2024
+598,1057,Sneakers,West,816.61,4,19,Non-Binary,3/24/2024
+599,1057,Sneakers,East,174.65,1,62,Non-Binary,4/18/2024
+600,1006,Accessories,East,801.8,3,67,Female,1/6/2024
+601,1016,Home Goods,South,1130.06,3,20,Male,1/26/2024
+602,1072,Home Goods,East,2371.94,9,39,Male,4/21/2024
+603,1069,Accessories,North,1306.64,7,44,Male,3/3/2024
+604,1014,Accessories,North,403.61,5,40,Female,2/7/2024
+605,1084,Home Goods,West,971.81,3,29,Male,5/12/2024
+606,1140,Sneakers,South,1207.29,7,44,Male,5/31/2024
+607,1004,Apparel,West,124.18,1,21,Female,2/25/2024
+608,1054,Apparel,West,1204.64,3,30,Non-Binary,2/9/2024
+609,1186,Electronics,North,1483.79,5,58,Female,2/7/2024
+610,1170,Apparel,East,1280.69,4,61,Female,5/21/2024
+611,1099,Home Goods,North,1724.5,4,46,Female,5/29/2024
+612,1143,Accessories,East,2534.54,10,63,Female,3/15/2024
+613,1020,Apparel,North,1324.67,4,30,Non-Binary,5/14/2024
+614,1028,Apparel,North,1404.37,6,67,Female,4/10/2024
+615,1150,Electronics,West,1000.6,3,69,Non-Binary,2/21/2024
+616,1037,Electronics,North,361.69,1,34,Non-Binary,5/31/2024
+617,1187,Accessories,North,993.99,2,27,Non-Binary,5/20/2024
+618,1192,Electronics,North,630.07,3,28,Male,2/27/2024
+619,1031,Home Goods,North,304.03,2,68,Female,5/14/2024
+620,1011,Apparel,West,1218.07,3,41,Female,4/30/2024
+621,1000,Accessories,East,2161.22,9,53,Female,3/12/2024
+622,1192,Electronics,East,1092.72,9,35,Male,2/10/2024
+623,1136,Apparel,South,780.7,5,69,Non-Binary,2/27/2024
+624,1179,Sneakers,West,4793.65,10,63,Non-Binary,5/25/2024
+625,1046,Electronics,North,386.53,1,24,Non-Binary,1/22/2024
+626,1149,Home Goods,North,1708.31,8,47,Non-Binary,3/6/2024
+627,1009,Electronics,South,1165.42,3,61,Non-Binary,2/5/2024
+628,1120,Apparel,North,91.54,2,27,Male,2/16/2024
+629,1024,Electronics,North,138.78,1,65,Non-Binary,4/21/2024
+630,1096,Electronics,South,250.37,1,26,Female,2/3/2024
+631,1005,Sneakers,West,316.11,2,45,Male,2/20/2024
+632,1102,Home Goods,South,466.07,1,22,Male,5/2/2024
+633,1087,Electronics,East,1647.5,10,53,Non-Binary,2/2/2024
+634,1021,Apparel,East,118.42,1,64,Non-Binary,2/13/2024
+635,1026,Electronics,East,79.04,4,20,Female,4/26/2024
+636,1163,Electronics,East,481.86,1,62,Non-Binary,5/13/2024
+637,1030,Accessories,North,682.99,5,29,Non-Binary,5/7/2024
+638,1133,Apparel,West,1275.76,5,30,Male,5/22/2024
+639,1160,Sneakers,East,3687.16,8,68,Male,4/25/2024
+640,1115,Electronics,East,61.75,1,32,Female,4/27/2024
+641,1121,Electronics,North,3046.73,8,47,Non-Binary,4/5/2024
+642,1128,Accessories,North,443.89,3,42,Female,2/19/2024
+643,1029,Apparel,East,479.22,2,55,Female,4/30/2024
+644,1165,Electronics,East,610.93,5,40,Male,4/10/2024
+645,1163,Electronics,West,44.6,2,43,Non-Binary,3/10/2024
+646,1190,Sneakers,West,640.06,4,49,Male,5/22/2024
+647,1020,Apparel,East,1313.79,6,67,Non-Binary,1/16/2024
+648,1115,Electronics,South,117.37,2,49,Female,5/16/2024
+649,1197,Accessories,West,1218.97,4,69,Female,1/23/2024
+650,1148,Sneakers,West,1213.14,9,32,Male,1/1/2024
+651,1167,Sneakers,North,1434.69,4,34,Male,4/11/2024
+652,1000,Accessories,West,3909.57,8,57,Female,1/22/2024
+653,1167,Sneakers,North,153.09,4,24,Non-Binary,1/16/2024
+654,1060,Sneakers,West,1748.41,4,55,Non-Binary,5/16/2024
+655,1127,Accessories,West,1666.64,10,58,Female,4/14/2024
+656,1125,Apparel,West,1383.98,4,57,Male,2/15/2024
+657,1003,Home Goods,East,989.47,3,64,Female,5/1/2024
+658,1026,Electronics,East,894.91,6,56,Male,3/13/2024
+659,1056,Accessories,East,912.34,2,32,Non-Binary,1/28/2024
+660,1088,Apparel,South,525.19,4,21,Female,3/14/2024
+661,1159,Apparel,West,931.64,6,62,Female,1/31/2024
+662,1033,Apparel,East,2348.07,7,44,Male,5/12/2024
+663,1148,Sneakers,North,2973.07,6,60,Non-Binary,4/24/2024
+664,1165,Electronics,East,750.98,3,63,Female,4/8/2024
+665,1100,Accessories,West,1404.16,9,22,Male,2/8/2024
+666,1149,Home Goods,East,587.74,3,52,Non-Binary,5/8/2024
+667,1024,Electronics,South,371.58,4,59,Female,4/11/2024
+668,1135,Accessories,East,3309.83,9,32,Female,3/25/2024
+669,1106,Sneakers,North,2084.36,9,21,Non-Binary,1/27/2024
+670,1149,Home Goods,North,606.19,3,52,Non-Binary,2/28/2024
+671,1151,Accessories,South,504.74,7,44,Non-Binary,4/26/2024
+672,1031,Home Goods,West,505.57,8,43,Male,1/9/2024
+673,1038,Apparel,South,989.67,6,32,Non-Binary,1/27/2024
+674,1050,Apparel,East,1078.23,6,23,Male,2/19/2024
+675,1022,Apparel,West,463.67,4,28,Non-Binary,2/24/2024
+676,1012,Electronics,North,185.02,5,60,Female,2/18/2024
+677,1091,Sneakers,West,955.51,8,50,Female,2/17/2024
+678,1179,Sneakers,West,1918.72,4,19,Non-Binary,2/16/2024
+679,1186,Electronics,South,753.67,6,65,Male,5/31/2024
+680,1177,Accessories,East,272.86,2,35,Female,1/12/2024
+681,1018,Apparel,East,847.47,4,68,Non-Binary,4/12/2024
+682,1098,Accessories,West,1876.38,6,64,Male,4/7/2024
+683,1109,Accessories,North,87,1,65,Non-Binary,2/3/2024
+684,1089,Sneakers,West,283.2,2,49,Female,3/13/2024
+685,1195,Sneakers,North,14.41,1,67,Non-Binary,3/27/2024
+686,1165,Electronics,West,115.2,10,24,Non-Binary,4/1/2024
+687,1142,Sneakers,West,605.91,4,25,Male,1/26/2024
+688,1106,Sneakers,South,148.11,3,60,Non-Binary,2/5/2024
+689,1124,Apparel,South,1664.12,10,62,Non-Binary,3/9/2024
+690,1014,Accessories,North,4178.29,10,42,Female,4/16/2024
+691,1162,Sneakers,West,363.7,1,18,Female,4/6/2024
+692,1033,Apparel,South,2104.57,8,47,Non-Binary,2/12/2024
+693,1004,Apparel,West,1691.03,10,48,Non-Binary,1/11/2024
+694,1137,Home Goods,West,713.32,4,25,Female,2/15/2024
+695,1196,Home Goods,South,419.76,1,63,Male,3/7/2024
+696,1132,Electronics,West,1855.08,4,21,Female,5/21/2024
+697,1006,Accessories,North,2734.95,8,44,Male,2/6/2024
+698,1003,Home Goods,West,490.16,9,58,Non-Binary,3/31/2024
+699,1163,Electronics,South,1013.09,3,56,Non-Binary,5/31/2024
+700,1006,Accessories,East,480.47,4,44,Non-Binary,2/10/2024
+701,1113,Apparel,South,588.84,4,19,Female,2/26/2024
+702,1043,Apparel,East,1990.21,4,18,Female,4/26/2024
+703,1170,Apparel,East,407.14,9,66,Non-Binary,5/21/2024
+704,1068,Apparel,East,709.44,10,31,Non-Binary,3/1/2024
+705,1060,Sneakers,West,2506.84,6,33,Female,5/16/2024
+706,1039,Accessories,North,2011.9,9,26,Male,3/28/2024
+707,1148,Sneakers,West,4156.46,9,28,Non-Binary,1/28/2024
+708,1065,Apparel,East,1886.59,6,49,Female,2/28/2024
+709,1036,Home Goods,South,3638.6,10,41,Female,5/19/2024
+710,1002,Home Goods,South,1708.31,4,49,Male,3/24/2024
+711,1167,Sneakers,West,2220.71,5,39,Non-Binary,3/4/2024
+712,1188,Electronics,West,1191.95,3,23,Female,3/12/2024
+713,1149,Home Goods,South,653.26,4,23,Non-Binary,4/7/2024
+714,1010,Sneakers,West,1158.02,7,44,Male,3/25/2024
+715,1027,Sneakers,South,1046.89,3,51,Male,3/7/2024
+716,1108,Electronics,East,3070.49,9,46,Male,5/20/2024
+717,1024,Electronics,East,44.44,4,55,Male,2/1/2024
+718,1197,Accessories,North,2645.07,6,29,Male,3/21/2024
+719,1172,Sneakers,East,262.72,2,21,Male,3/28/2024
+720,1118,Home Goods,North,1292.62,4,28,Female,5/21/2024
+721,1033,Apparel,West,420.24,1,27,Male,2/7/2024
+722,1015,Electronics,West,233.47,2,33,Non-Binary,2/6/2024
+723,1158,Accessories,North,1493.17,5,70,Female,5/28/2024
+724,1048,Apparel,West,278.68,8,49,Male,3/10/2024
+725,1128,Accessories,West,982.03,3,46,Non-Binary,4/8/2024
+726,1155,Apparel,East,2557.55,9,38,Male,1/22/2024
+727,1102,Home Goods,West,424.92,1,48,Non-Binary,2/3/2024
+728,1042,Sneakers,West,268.39,1,41,Male,5/12/2024
+729,1057,Sneakers,North,3910.43,10,54,Female,4/11/2024
+730,1110,Apparel,West,380.76,3,31,Non-Binary,3/28/2024
+731,1194,Electronics,South,36.23,2,46,Female,1/1/2024
+732,1136,Apparel,East,4135.31,10,67,Female,4/6/2024
+733,1128,Accessories,South,1761.34,7,42,Male,2/4/2024
+734,1064,Electronics,West,3244.34,10,59,Non-Binary,2/22/2024
+735,1199,Accessories,East,1488.92,6,54,Female,2/8/2024
+736,1092,Accessories,North,2842.06,6,21,Female,1/29/2024
+737,1168,Accessories,South,66.98,1,27,Non-Binary,1/9/2024
+738,1151,Accessories,West,488.67,1,59,Male,3/23/2024
+739,1065,Apparel,East,912.73,3,28,Female,3/31/2024
+740,1003,Home Goods,South,488.87,2,40,Female,3/31/2024
+741,1166,Home Goods,South,1087.17,6,61,Female,1/22/2024
+742,1135,Accessories,North,2753.61,7,69,Male,3/27/2024
+743,1043,Apparel,North,100,9,44,Female,5/26/2024
+744,1007,Sneakers,East,2433.74,9,70,Male,4/18/2024
+745,1136,Apparel,North,2400.95,9,30,Non-Binary,3/28/2024
+746,1197,Accessories,West,1358.75,3,47,Non-Binary,4/27/2024
+747,1124,Apparel,East,651.82,5,18,Non-Binary,2/17/2024
+748,1074,Home Goods,North,309.63,7,35,Non-Binary,2/23/2024
+749,1072,Home Goods,South,577.78,9,25,Non-Binary,3/9/2024
+750,1112,Apparel,East,3167.58,9,67,Non-Binary,2/14/2024
+751,1111,Accessories,North,2116.54,10,20,Female,1/12/2024
+752,1194,Electronics,East,2995.37,6,20,Female,1/14/2024
+753,1087,Electronics,North,38.15,2,25,Female,5/27/2024
+754,1089,Sneakers,North,1804.2,5,46,Male,5/30/2024
+755,1140,Sneakers,North,2924.12,8,64,Non-Binary,3/21/2024
+756,1115,Electronics,West,220.3,1,20,Female,3/15/2024
+757,1063,Home Goods,South,257.7,2,67,Male,3/18/2024
+758,1043,Apparel,East,991.86,6,44,Non-Binary,5/10/2024
+759,1068,Apparel,East,102.73,3,50,Female,5/20/2024
+760,1108,Electronics,West,151.97,3,69,Male,3/1/2024
+761,1173,Home Goods,North,3209.82,9,37,Female,4/30/2024
+762,1022,Apparel,East,2113.5,6,57,Non-Binary,3/20/2024
+763,1059,Apparel,South,2940.48,10,69,Male,1/22/2024
+764,1069,Accessories,East,1230.78,5,67,Female,5/30/2024
+765,1188,Electronics,West,944.67,5,37,Male,5/21/2024
+766,1017,Accessories,South,78.54,1,40,Non-Binary,2/15/2024
+767,1019,Accessories,South,170.51,3,58,Female,2/8/2024
+768,1019,Accessories,South,1311.81,7,32,Male,2/28/2024
+769,1123,Accessories,South,1870.59,6,61,Non-Binary,3/15/2024
+770,1124,Apparel,North,1819.32,5,18,Non-Binary,4/14/2024
+771,1066,Electronics,North,2403.58,10,26,Female,1/8/2024
+772,1142,Sneakers,North,2345.53,6,28,Female,1/9/2024
+773,1165,Electronics,North,1608.53,10,26,Female,3/12/2024
+774,1098,Accessories,South,1091.6,5,42,Non-Binary,2/5/2024
+775,1048,Apparel,North,1039.87,6,68,Male,1/3/2024
+776,1146,Home Goods,East,2992.18,7,41,Female,1/21/2024
+777,1119,Home Goods,West,375.88,3,29,Non-Binary,4/9/2024
+778,1105,Apparel,South,453.06,2,47,Female,2/22/2024
+779,1166,Home Goods,West,456.21,3,43,Non-Binary,4/2/2024
+780,1046,Electronics,West,776.67,2,39,Female,2/5/2024
+781,1038,Apparel,South,4452.4,10,49,Non-Binary,3/20/2024
+782,1028,Apparel,East,1190.97,4,25,Female,2/23/2024
+783,1168,Accessories,North,4054.77,9,20,Male,1/20/2024
+784,1009,Electronics,East,974.56,2,43,Non-Binary,1/18/2024
+785,1137,Home Goods,East,658.86,5,45,Female,3/1/2024
+786,1002,Home Goods,East,99.37,1,68,Male,4/26/2024
+787,1131,Accessories,East,32.72,1,63,Female,3/9/2024
+788,1123,Accessories,North,1740.15,5,68,Non-Binary,2/12/2024
+789,1118,Home Goods,East,3714.88,10,30,Male,4/4/2024
+790,1068,Apparel,North,399.12,3,28,Female,1/18/2024
+791,1144,Sneakers,West,3895.63,8,24,Male,5/31/2024
+792,1081,Apparel,South,2538.37,7,23,Male,5/19/2024
+793,1102,Home Goods,North,905.06,2,43,Female,4/14/2024
+794,1024,Electronics,East,1469.16,5,42,Female,5/26/2024
+795,1079,Sneakers,West,2162.84,6,31,Non-Binary,1/7/2024
+796,1030,Accessories,South,1085.8,7,51,Non-Binary,5/14/2024
+797,1176,Home Goods,South,4190.88,9,28,Female,5/25/2024
+798,1007,Sneakers,West,2245.09,6,26,Non-Binary,4/12/2024
+799,1179,Sneakers,East,1666.35,6,67,Non-Binary,1/23/2024
+800,1150,Electronics,West,394.56,7,65,Male,2/20/2024
+801,1022,Apparel,South,1227.7,4,46,Female,5/23/2024
+802,1127,Accessories,West,907.72,4,58,Female,1/26/2024
+803,1016,Home Goods,West,1363.91,3,22,Female,2/18/2024
+804,1115,Electronics,West,962.42,6,27,Male,4/29/2024
+805,1085,Accessories,South,424.49,2,23,Male,3/12/2024
+806,1184,Sneakers,West,2283.1,9,69,Female,5/27/2024
+807,1014,Accessories,East,1675.24,9,32,Female,4/25/2024
+808,1126,Electronics,East,284.94,1,37,Female,4/21/2024
+809,1196,Home Goods,West,57.73,4,50,Male,5/1/2024
+810,1047,Home Goods,East,2423.95,7,70,Male,1/12/2024
+811,1100,Accessories,West,566.07,2,68,Male,3/2/2024
+812,1039,Accessories,East,2692.86,9,58,Female,1/6/2024
+813,1075,Accessories,West,1286.69,6,47,Female,4/3/2024
+814,1169,Accessories,East,1276.62,4,53,Non-Binary,3/19/2024
+815,1193,Electronics,South,3376.32,10,67,Non-Binary,3/22/2024
+816,1074,Home Goods,North,493.55,3,57,Non-Binary,3/5/2024
+817,1130,Electronics,North,3923.78,8,58,Female,5/1/2024
+818,1138,Apparel,North,1015.43,7,52,Non-Binary,1/5/2024
+819,1104,Electronics,North,1952.79,7,57,Female,2/11/2024
+820,1130,Electronics,West,1572.25,4,24,Male,5/27/2024
+821,1089,Sneakers,South,1783.36,4,61,Male,2/25/2024
+822,1028,Apparel,North,922.67,6,66,Male,1/1/2024
+823,1146,Home Goods,West,1413.69,8,40,Male,3/13/2024
+824,1026,Electronics,West,1907.29,5,26,Female,1/25/2024
+825,1087,Electronics,West,1674.53,7,22,Male,4/21/2024
+826,1020,Apparel,North,1038.34,3,42,Male,3/16/2024
+827,1047,Home Goods,West,1189.49,8,37,Male,5/26/2024
+828,1086,Electronics,East,2659.55,9,55,Non-Binary,5/2/2024
+829,1114,Home Goods,South,1806.01,6,43,Female,1/2/2024
+830,1004,Apparel,West,853.84,2,30,Non-Binary,5/2/2024
+831,1191,Electronics,South,4701.2,10,20,Non-Binary,3/28/2024
+832,1144,Sneakers,North,2159.38,5,33,Male,3/12/2024
+833,1183,Apparel,South,2387.13,6,65,Non-Binary,3/29/2024
+834,1070,Accessories,West,3751.01,9,54,Non-Binary,2/14/2024
+835,1140,Sneakers,North,958.19,3,23,Female,4/5/2024
+836,1056,Accessories,South,639.73,6,43,Non-Binary,2/17/2024
+837,1082,Accessories,North,3095.37,8,48,Female,2/14/2024
+838,1133,Apparel,East,369.37,4,22,Female,1/20/2024
+839,1106,Sneakers,West,1042.73,5,48,Male,4/24/2024
+840,1199,Accessories,East,2052.57,5,34,Male,1/11/2024
+841,1150,Electronics,North,733.43,4,55,Female,4/5/2024
+842,1001,Sneakers,West,1629.42,4,50,Non-Binary,3/3/2024
+843,1026,Electronics,West,668.54,5,23,Female,3/29/2024
+844,1025,Sneakers,North,3612.69,8,51,Female,3/10/2024
+845,1052,Sneakers,South,417.99,1,21,Female,4/17/2024
+846,1076,Sneakers,South,105.57,1,61,Female,2/9/2024
+847,1150,Electronics,North,1011.13,4,22,Male,3/2/2024
+848,1097,Sneakers,South,2555.65,7,47,Female,3/3/2024
+849,1167,Sneakers,East,2061.07,10,66,Non-Binary,1/27/2024
+850,1130,Electronics,North,81.31,1,20,Male,2/9/2024
+851,1003,Home Goods,West,227.88,8,40,Non-Binary,1/3/2024
+852,1095,Home Goods,South,3860.57,9,64,Male,3/23/2024
+853,1159,Apparel,West,1402.08,5,53,Male,5/14/2024
+854,1091,Sneakers,South,3827.98,8,50,Male,3/24/2024
+855,1115,Electronics,South,3696.43,9,67,Male,3/30/2024
+856,1199,Accessories,South,4603.67,10,45,Non-Binary,3/1/2024
+857,1181,Sneakers,North,4856.79,10,47,Non-Binary,4/20/2024
+858,1100,Accessories,North,2888.08,6,24,Male,5/19/2024
+859,1021,Apparel,East,430.66,1,38,Male,2/11/2024
+860,1055,Apparel,South,2419.22,5,59,Male,2/27/2024
+861,1126,Electronics,West,507.06,7,70,Non-Binary,4/17/2024
+862,1024,Electronics,East,491.14,5,45,Non-Binary,2/18/2024
+863,1146,Home Goods,East,2898.56,7,58,Female,4/16/2024
+864,1183,Apparel,South,504.73,4,46,Female,2/23/2024
+865,1070,Accessories,East,838.91,8,40,Male,4/3/2024
+866,1137,Home Goods,West,220.39,9,36,Male,3/30/2024
+867,1124,Apparel,West,1784.79,6,30,Male,2/24/2024
+868,1184,Sneakers,South,410.32,1,65,Male,3/2/2024
+869,1144,Sneakers,South,97.95,3,68,Female,2/24/2024
+870,1107,Sneakers,South,1985.03,6,30,Female,1/2/2024
+871,1097,Sneakers,East,372.29,1,46,Female,2/3/2024
+872,1113,Apparel,South,352.9,7,41,Non-Binary,1/9/2024
+873,1032,Apparel,South,246.73,10,21,Male,2/17/2024
+874,1156,Home Goods,West,1849.15,5,35,Female,4/7/2024
+875,1052,Sneakers,West,1506.07,9,58,Female,3/15/2024
+876,1054,Apparel,North,1545.34,7,33,Female,5/20/2024
+877,1090,Accessories,South,3894.36,8,22,Female,1/17/2024
+878,1091,Sneakers,East,104.55,2,50,Non-Binary,3/1/2024
+879,1172,Sneakers,West,717.71,2,39,Female,4/17/2024
+880,1191,Electronics,South,1468.34,8,51,Female,2/13/2024
+881,1039,Accessories,East,3069.64,9,29,Non-Binary,1/25/2024
+882,1016,Home Goods,North,879.01,4,44,Female,3/6/2024
+883,1070,Accessories,South,379.51,1,47,Male,4/15/2024
+884,1106,Sneakers,South,1511.54,4,54,Non-Binary,5/11/2024
+885,1195,Sneakers,West,333.62,2,51,Non-Binary,4/8/2024
+886,1199,Accessories,North,1166.6,9,65,Male,2/28/2024
+887,1157,Electronics,West,543.07,5,61,Non-Binary,4/13/2024
+888,1144,Sneakers,West,194.6,6,40,Male,1/11/2024
+889,1158,Accessories,North,126.5,1,39,Non-Binary,4/6/2024
+890,1137,Home Goods,West,1522.62,8,30,Female,5/25/2024
+891,1124,Apparel,South,2292.44,10,70,Female,5/26/2024
+892,1117,Home Goods,West,2682.89,7,52,Female,5/20/2024
+893,1026,Electronics,North,1257.84,7,42,Male,1/23/2024
+894,1153,Home Goods,East,238.41,3,54,Male,1/16/2024
+895,1183,Apparel,East,4981.04,10,49,Non-Binary,3/30/2024
+896,1004,Apparel,East,375.34,3,68,Male,2/14/2024
+897,1015,Electronics,West,67.76,1,42,Female,5/8/2024
+898,1027,Sneakers,North,2838.31,8,27,Male,1/5/2024
+899,1064,Electronics,East,1446.66,3,57,Non-Binary,4/5/2024
+900,1166,Home Goods,West,284.99,4,55,Female,5/10/2024
+901,1145,Sneakers,East,3106.78,10,39,Female,3/13/2024
+902,1109,Accessories,West,810.88,3,37,Male,2/10/2024
+903,1126,Electronics,South,645.47,6,47,Male,1/9/2024
+904,1157,Electronics,West,3839.68,8,67,Male,3/22/2024
+905,1073,Accessories,West,56.85,5,67,Non-Binary,5/22/2024
+906,1004,Apparel,South,2033.28,5,25,Female,5/14/2024
+907,1123,Accessories,West,1339.36,4,55,Female,4/12/2024
+908,1071,Accessories,North,3875.63,9,40,Male,4/12/2024
+909,1063,Home Goods,East,1876,4,42,Female,2/28/2024
+910,1153,Home Goods,South,2498.31,5,67,Non-Binary,4/28/2024
+911,1003,Home Goods,North,315.38,1,31,Non-Binary,5/1/2024
+912,1011,Apparel,East,1058.35,6,25,Male,1/24/2024
+913,1111,Accessories,South,128.95,2,39,Female,4/1/2024
+914,1121,Electronics,East,3821.88,8,60,Female,1/29/2024
+915,1196,Home Goods,East,1587.88,7,54,Non-Binary,5/2/2024
+916,1090,Accessories,South,1557.8,4,62,Female,5/26/2024
+917,1055,Apparel,North,463.06,1,48,Non-Binary,3/15/2024
+918,1128,Accessories,East,1063.39,7,47,Male,5/6/2024
+919,1053,Apparel,East,340.9,2,54,Female,5/30/2024
+920,1017,Accessories,South,40.21,1,35,Male,2/21/2024
+921,1035,Home Goods,North,1150.36,8,49,Non-Binary,4/17/2024
+922,1128,Accessories,South,1590.95,10,53,Non-Binary,3/25/2024
+923,1022,Apparel,North,798.17,9,48,Female,5/4/2024
+924,1021,Apparel,North,976.31,7,35,Female,2/22/2024
+925,1044,Home Goods,South,2611.2,6,27,Male,5/3/2024
+926,1057,Sneakers,North,1062.41,3,63,Female,2/3/2024
+927,1033,Apparel,South,2290.38,8,41,Non-Binary,1/28/2024
+928,1185,Apparel,East,305.61,1,68,Male,5/15/2024
+929,1007,Sneakers,West,1378.7,7,18,Non-Binary,1/28/2024
+930,1134,Electronics,North,1617.06,10,25,Non-Binary,3/22/2024
+931,1153,Home Goods,North,850.71,2,44,Female,4/5/2024
+932,1040,Sneakers,South,147.57,2,51,Female,5/4/2024
+933,1100,Accessories,West,1459.29,3,34,Non-Binary,2/20/2024
+934,1028,Apparel,South,3850.28,9,62,Female,1/12/2024
+935,1054,Apparel,North,114.34,8,42,Male,3/18/2024
+936,1180,Accessories,West,3074.73,8,70,Female,4/27/2024
+937,1097,Sneakers,South,1146.44,10,24,Male,2/29/2024
+938,1022,Apparel,East,2521.66,10,23,Female,3/19/2024
+939,1077,Apparel,West,1066.32,6,19,Male,2/18/2024
+940,1011,Apparel,North,1380.43,3,18,Non-Binary,2/9/2024
+941,1057,Sneakers,South,306.35,5,48,Male,5/24/2024
+942,1066,Electronics,North,3557.07,10,52,Female,1/24/2024
+943,1008,Electronics,West,356.63,3,37,Non-Binary,4/10/2024
+944,1094,Electronics,West,3628.59,9,45,Female,4/12/2024
+945,1069,Accessories,East,3772.49,9,52,Female,3/19/2024
+946,1131,Accessories,East,380.95,6,34,Non-Binary,2/3/2024
+947,1123,Accessories,East,3612.97,8,50,Non-Binary,1/1/2024
+948,1172,Sneakers,West,238.68,1,44,Non-Binary,2/8/2024
+949,1090,Accessories,West,1754.75,9,60,Non-Binary,3/21/2024
+950,1096,Electronics,East,2436.01,7,68,Male,5/19/2024
+951,1171,Home Goods,North,583,2,26,Female,5/18/2024
+952,1005,Sneakers,North,484.39,4,52,Female,3/4/2024
+953,1197,Accessories,South,374.47,1,31,Female,3/19/2024
+954,1076,Sneakers,South,280.85,2,57,Male,1/19/2024
+955,1086,Electronics,West,404.46,3,70,Male,2/26/2024
+956,1058,Accessories,East,2112.74,5,41,Female,1/29/2024
+957,1177,Accessories,East,3020.57,10,66,Non-Binary,5/9/2024
+958,1000,Accessories,South,3686.87,10,62,Male,3/9/2024
+959,1152,Electronics,East,1024.45,8,47,Male,5/11/2024
+960,1171,Home Goods,South,1969.98,4,46,Non-Binary,1/4/2024
+961,1056,Accessories,North,423.61,2,62,Male,5/12/2024
+962,1014,Accessories,North,1248.27,3,49,Non-Binary,3/18/2024
+963,1045,Sneakers,East,2369.74,5,26,Non-Binary,5/15/2024
+964,1115,Electronics,West,663.56,9,31,Female,1/19/2024
+965,1186,Electronics,South,267.51,1,60,Non-Binary,5/4/2024
+966,1194,Electronics,East,1924.81,9,64,Male,4/7/2024
+967,1140,Sneakers,East,1959.06,7,52,Non-Binary,5/8/2024
+968,1145,Sneakers,West,882.85,6,27,Non-Binary,5/19/2024
+969,1177,Accessories,North,165.88,1,54,Non-Binary,5/22/2024
+970,1066,Electronics,West,2504.59,9,18,Male,3/7/2024
+971,1100,Accessories,East,1992.76,4,37,Female,3/30/2024
+972,1146,Home Goods,North,2728.06,9,50,Non-Binary,3/21/2024
+973,1164,Sneakers,West,3317.71,8,62,Female,4/21/2024
+974,1006,Accessories,West,1508.87,8,31,Non-Binary,2/25/2024
+975,1049,Apparel,North,1336.74,6,44,Non-Binary,1/20/2024
+976,1197,Accessories,West,127.71,1,58,Female,3/31/2024
+977,1158,Accessories,West,1574.75,5,69,Male,4/2/2024
+978,1060,Sneakers,South,609.63,5,51,Female,4/14/2024
+979,1152,Electronics,North,233.92,1,29,Male,3/4/2024
+980,1009,Electronics,East,232.03,1,35,Non-Binary,2/12/2024
+981,1188,Electronics,South,131,2,37,Female,3/11/2024
+982,1059,Apparel,South,2075.93,5,42,Male,4/15/2024
+983,1132,Electronics,East,2445.07,5,37,Female,1/10/2024
+984,1031,Home Goods,West,1135.83,10,53,Non-Binary,3/10/2024
+985,1068,Apparel,East,2052.68,8,51,Non-Binary,4/20/2024
+986,1053,Apparel,South,2024.97,9,38,Male,1/6/2024
+987,1187,Accessories,North,3172.39,8,28,Male,5/24/2024
+988,1079,Sneakers,East,1684.54,7,31,Female,3/26/2024
+989,1117,Home Goods,North,1617.15,6,44,Non-Binary,1/9/2024
+990,1012,Electronics,East,717.9,3,67,Non-Binary,2/20/2024
+991,1080,Home Goods,East,1615.54,8,64,Female,3/11/2024
+992,1191,Electronics,East,1573.55,4,67,Male,3/17/2024
+993,1172,Sneakers,South,2073.38,8,40,Male,2/9/2024
+994,1048,Apparel,East,3534.61,10,29,Non-Binary,1/13/2024
+995,1122,Electronics,South,3275.99,7,56,Non-Binary,3/20/2024
+996,1055,Apparel,South,1082.77,4,56,Non-Binary,1/30/2024
+997,1124,Apparel,North,1717.65,7,19,Female,5/10/2024
+998,1010,Sneakers,East,222.56,1,50,Female,4/6/2024
+999,1175,Accessories,West,1903.42,5,44,Female,1/1/2024
+1000,1097,Sneakers,West,1596.63,4,62,Male,4/25/2024
+1001,1039,Accessories,South,1397.27,3,46,Non-Binary,4/12/2024
+1002,1036,Home Goods,West,1483.3,4,47,Female,2/5/2024
+1003,1002,Home Goods,East,1280.93,6,55,Non-Binary,3/14/2024
+1004,1026,Electronics,South,1588.96,9,31,Female,2/13/2024
+1005,1032,Apparel,East,206.8,3,56,Non-Binary,2/9/2024
+1006,1048,Apparel,North,340.53,2,45,Male,2/19/2024
+1007,1147,Accessories,East,3390.32,10,47,Non-Binary,4/15/2024
+1008,1074,Home Goods,North,3081.31,7,48,Female,3/4/2024
+1009,1106,Sneakers,South,2056.75,6,54,Non-Binary,4/15/2024
+1010,1100,Accessories,East,438.91,8,51,Male,2/5/2024
+1011,1181,Sneakers,West,554.71,2,26,Female,5/30/2024
+1012,1088,Apparel,North,1394.31,7,62,Female,5/6/2024
+1013,1113,Apparel,North,454.24,10,34,Male,2/29/2024
+1014,1178,Electronics,West,894.43,2,38,Non-Binary,4/15/2024
+1015,1105,Apparel,West,2219.97,7,62,Male,1/7/2024
+1016,1068,Apparel,South,1692.71,7,62,Male,5/23/2024
+1017,1021,Apparel,North,3112.29,8,42,Non-Binary,5/5/2024
+1018,1183,Apparel,East,76.41,5,21,Male,4/24/2024
+1019,1039,Accessories,East,2024.3,7,59,Non-Binary,2/16/2024
+1020,1158,Accessories,South,2016.75,9,22,Male,1/17/2024
+1021,1098,Accessories,East,651.28,2,68,Male,5/3/2024
+1022,1185,Apparel,North,1236.07,5,29,Female,1/27/2024
+1023,1118,Home Goods,East,968.77,6,25,Female,3/18/2024
+1024,1077,Apparel,South,208.01,2,31,Non-Binary,5/31/2024
+1025,1177,Accessories,South,160.48,2,29,Female,3/23/2024
+1026,1011,Apparel,South,2218.29,8,38,Non-Binary,5/21/2024
+1027,1037,Electronics,South,1748.13,9,25,Female,1/12/2024
+1028,1179,Sneakers,South,2458.85,9,23,Female,4/11/2024
+1029,1002,Home Goods,South,4266.97,9,33,Non-Binary,1/11/2024
+1030,1011,Apparel,East,919.26,6,65,Male,4/15/2024
+1031,1172,Sneakers,South,1223.01,4,29,Non-Binary,1/14/2024
+1032,1112,Apparel,North,1663.42,4,34,Male,5/29/2024
+1033,1028,Apparel,West,3904,9,50,Female,2/29/2024
+1034,1109,Accessories,West,1412.88,5,67,Female,3/18/2024
+1035,1026,Electronics,North,1469.57,8,68,Non-Binary,2/22/2024
+1036,1149,Home Goods,North,267.37,2,26,Female,4/19/2024
+1037,1080,Home Goods,North,2365.03,7,20,Non-Binary,1/3/2024
+1038,1181,Sneakers,South,2682.13,9,64,Male,3/13/2024
+1039,1084,Home Goods,North,1447.22,7,54,Male,3/15/2024
+1040,1035,Home Goods,South,137.14,2,69,Non-Binary,3/29/2024
+1041,1149,Home Goods,East,216.32,2,43,Non-Binary,3/29/2024
+1042,1027,Sneakers,West,715.7,5,64,Non-Binary,1/29/2024
+1043,1108,Electronics,West,395.93,1,44,Non-Binary,4/14/2024
+1044,1129,Home Goods,North,3523.72,9,40,Male,4/14/2024
+1045,1146,Home Goods,West,950.9,4,43,Female,2/28/2024
+1046,1159,Apparel,South,3307.56,9,59,Male,2/9/2024
+1047,1120,Apparel,East,2036.31,10,62,Non-Binary,2/6/2024
+1048,1197,Accessories,West,4066.89,9,39,Non-Binary,1/18/2024
+1049,1010,Sneakers,North,421.86,3,51,Non-Binary,4/3/2024
+1050,1073,Accessories,West,449.88,9,63,Male,3/10/2024
+1051,1021,Apparel,West,2526.21,6,68,Non-Binary,5/22/2024
+1052,1025,Sneakers,North,413.63,2,19,Non-Binary,1/3/2024
+1053,1027,Sneakers,South,938.09,10,60,Male,4/5/2024
+1054,1085,Accessories,North,607.8,5,40,Female,1/30/2024
+1055,1035,Home Goods,East,656.48,2,52,Male,3/2/2024
+1056,1180,Accessories,East,218.15,1,36,Male,5/14/2024
+1057,1185,Apparel,East,57.41,4,45,Non-Binary,2/3/2024
+1058,1160,Sneakers,East,4559.88,10,29,Male,1/11/2024
+1059,1110,Apparel,South,2413.8,10,20,Male,2/25/2024
+1060,1058,Accessories,East,432.07,3,45,Male,1/1/2024
+1061,1146,Home Goods,South,2156.36,6,41,Non-Binary,2/22/2024
+1062,1115,Electronics,East,71.3,3,38,Female,5/30/2024
+1063,1058,Accessories,East,1262.05,3,49,Female,3/14/2024
+1064,1191,Electronics,North,3009.42,7,30,Male,1/30/2024
+1065,1170,Apparel,North,2370.02,6,62,Male,1/31/2024
+1066,1087,Electronics,South,833.33,2,22,Non-Binary,2/28/2024
+1067,1155,Apparel,West,2523.69,6,56,Male,5/20/2024
+1068,1163,Electronics,West,2494.79,9,27,Male,5/5/2024
+1069,1154,Apparel,West,3288.49,7,54,Female,2/8/2024
+1070,1148,Sneakers,South,1450.27,3,46,Male,4/30/2024
+1071,1186,Electronics,South,60.69,4,50,Male,5/3/2024
+1072,1083,Apparel,West,1742.62,7,45,Male,1/24/2024
+1073,1126,Electronics,North,3720.12,10,52,Female,3/21/2024
+1074,1111,Accessories,North,373.32,1,35,Female,5/14/2024
+1075,1147,Accessories,South,1226.2,5,24,Non-Binary,3/7/2024
+1076,1196,Home Goods,North,1863.42,8,52,Female,5/27/2024
+1077,1040,Sneakers,South,1123.7,3,62,Non-Binary,4/28/2024
+1078,1060,Sneakers,West,94.12,6,53,Female,1/2/2024
+1079,1100,Accessories,East,1225.85,5,47,Male,5/17/2024
+1080,1008,Electronics,West,1976.1,6,67,Male,3/10/2024
+1081,1183,Apparel,East,2627.7,7,21,Male,5/31/2024
+1082,1137,Home Goods,South,602.94,6,33,Male,1/31/2024
+1083,1147,Accessories,West,2153.86,6,69,Male,1/6/2024
+1084,1098,Accessories,South,4549.68,10,57,Female,1/22/2024
+1085,1190,Sneakers,East,424.5,1,41,Female,5/17/2024
+1086,1097,Sneakers,North,952.99,4,24,Female,1/20/2024
+1087,1146,Home Goods,West,1109.05,5,57,Male,3/11/2024
+1088,1190,Sneakers,East,183.74,1,69,Male,5/2/2024
+1089,1078,Electronics,North,1022.3,6,27,Male,2/17/2024
+1090,1139,Apparel,East,1326.33,3,49,Male,1/22/2024
+1091,1132,Electronics,South,402.62,3,61,Female,1/3/2024
+1092,1109,Accessories,North,3460.73,7,26,Female,3/14/2024
+1093,1130,Electronics,North,1828.2,9,56,Non-Binary,1/23/2024
+1094,1083,Apparel,South,2311.4,7,65,Non-Binary,2/29/2024
+1095,1187,Accessories,North,1202.38,4,31,Male,4/11/2024
+1096,1115,Electronics,South,81.62,1,18,Non-Binary,5/11/2024
+1097,1004,Apparel,North,1080.65,3,50,Non-Binary,1/18/2024
+1098,1168,Accessories,South,889.17,2,32,Non-Binary,4/17/2024
+1099,1106,Sneakers,North,3925.54,9,36,Female,4/28/2024
+1100,1139,Apparel,West,449.68,7,70,Female,5/23/2024
+1101,1108,Electronics,South,159.33,7,18,Female,4/19/2024
+1102,1143,Accessories,South,499.75,1,27,Male,1/4/2024
+1103,1015,Electronics,West,3311.41,8,37,Non-Binary,1/12/2024
+1104,1146,Home Goods,West,767.34,6,62,Female,3/21/2024
+1105,1119,Home Goods,West,610.7,6,25,Male,2/6/2024
+1106,1178,Electronics,South,512.03,5,20,Male,1/16/2024
+1107,1191,Electronics,North,1105.95,5,39,Female,2/27/2024
+1108,1056,Accessories,East,1157.02,3,34,Male,4/21/2024
+1109,1161,Sneakers,South,125.26,3,28,Male,5/31/2024
+1110,1011,Apparel,South,781.99,4,41,Male,2/4/2024
+1111,1014,Accessories,East,885.88,3,60,Non-Binary,5/29/2024
+1112,1106,Sneakers,West,175.28,2,60,Non-Binary,2/2/2024
+1113,1091,Sneakers,West,1496.13,4,69,Male,3/9/2024
+1114,1047,Home Goods,East,229.87,1,41,Non-Binary,3/7/2024
+1115,1179,Sneakers,West,2040.38,5,26,Male,3/4/2024
+1116,1183,Apparel,East,1466.52,9,60,Male,5/13/2024
+1117,1061,Accessories,South,887.37,3,38,Non-Binary,3/5/2024
+1118,1085,Accessories,North,2826.53,10,37,Non-Binary,1/12/2024
+1119,1106,Sneakers,East,3803.24,8,51,Non-Binary,1/26/2024
+1120,1138,Apparel,South,548.89,5,48,Female,3/5/2024
+1121,1177,Accessories,West,258.84,1,22,Male,5/7/2024
+1122,1021,Apparel,West,1596.91,4,49,Male,1/7/2024
+1123,1122,Electronics,West,326.37,2,56,Female,4/5/2024
+1124,1003,Home Goods,East,569.16,7,27,Female,1/30/2024
+1125,1089,Sneakers,East,439.87,2,26,Non-Binary,1/7/2024
+1126,1094,Electronics,East,2682.39,7,45,Female,5/11/2024
+1127,1030,Accessories,West,124.14,9,46,Female,1/25/2024
+1128,1173,Home Goods,West,2802.34,8,27,Male,4/30/2024
+1129,1161,Sneakers,South,153.41,10,22,Male,4/9/2024
+1130,1024,Electronics,East,980.04,5,23,Female,4/4/2024
+1131,1083,Apparel,North,1295.29,3,56,Non-Binary,3/3/2024
+1132,1177,Accessories,West,2871.15,7,40,Female,2/15/2024
+1133,1141,Sneakers,South,1961.35,5,52,Non-Binary,3/2/2024
+1134,1091,Sneakers,East,301.99,4,63,Female,4/8/2024
+1135,1056,Accessories,North,421.84,1,43,Male,4/27/2024
+1136,1110,Apparel,East,643.38,6,18,Non-Binary,3/21/2024
+1137,1124,Apparel,South,3017.78,7,68,Male,3/31/2024
+1138,1154,Apparel,West,1116.03,5,64,Non-Binary,4/29/2024
+1139,1160,Sneakers,East,585.26,4,38,Male,2/29/2024
+1140,1014,Accessories,South,1365.34,9,50,Male,3/20/2024
+1141,1168,Accessories,West,3811.71,8,20,Female,5/15/2024
+1142,1015,Electronics,West,2316.88,5,18,Female,5/2/2024
+1143,1012,Electronics,South,1527.08,8,44,Female,5/17/2024
+1144,1136,Apparel,East,175.6,2,54,Female,5/21/2024
+1145,1095,Home Goods,East,2150.15,5,21,Non-Binary,3/3/2024
+1146,1036,Home Goods,South,1032.57,8,27,Non-Binary,5/29/2024
+1147,1064,Electronics,East,597.04,2,59,Non-Binary,3/29/2024
+1148,1099,Home Goods,East,1331.3,8,32,Female,4/23/2024
+1149,1099,Home Goods,West,60.39,1,32,Female,4/1/2024
+1150,1048,Apparel,West,2032.58,10,57,Male,5/8/2024
+1151,1046,Electronics,West,1855.34,4,35,Male,2/21/2024
+1152,1152,Electronics,East,1407.94,4,26,Female,1/25/2024
+1153,1079,Sneakers,West,3177.87,7,33,Non-Binary,2/19/2024
+1154,1169,Accessories,East,20.77,2,62,Female,1/13/2024
+1155,1008,Electronics,South,2019.23,7,30,Non-Binary,2/11/2024
+1156,1101,Accessories,East,2180.57,8,49,Male,5/8/2024
+1157,1005,Sneakers,South,999.06,8,59,Non-Binary,5/4/2024
+1158,1013,Sneakers,South,1481.18,5,54,Female,1/7/2024
+1159,1138,Apparel,South,1457.6,3,45,Female,3/17/2024
+1160,1121,Electronics,West,1642.11,4,65,Non-Binary,3/2/2024
+1161,1173,Home Goods,North,262.42,10,55,Male,5/18/2024
+1162,1087,Electronics,North,2076.24,5,25,Non-Binary,5/4/2024
+1163,1134,Electronics,North,2299.42,6,50,Non-Binary,5/24/2024
+1164,1032,Apparel,North,944.51,6,21,Male,2/8/2024
+1165,1134,Electronics,North,403.75,8,58,Non-Binary,2/7/2024
+1166,1136,Apparel,North,2178.41,5,51,Non-Binary,4/8/2024
+1167,1021,Apparel,East,893.45,4,20,Non-Binary,1/28/2024
+1168,1130,Electronics,North,1480.31,8,21,Male,2/11/2024
+1169,1038,Apparel,East,1360.97,9,64,Female,1/20/2024
+1170,1063,Home Goods,East,493.61,4,55,Non-Binary,1/14/2024
+1171,1055,Apparel,East,2017.01,6,24,Non-Binary,2/29/2024
+1172,1099,Home Goods,West,390.86,2,42,Non-Binary,5/19/2024
+1173,1191,Electronics,North,1047.86,5,29,Non-Binary,3/11/2024
+1174,1002,Home Goods,South,2323.13,7,36,Female,5/20/2024
+1175,1145,Sneakers,West,476.33,3,19,Male,5/6/2024
+1176,1100,Accessories,West,850.73,7,36,Non-Binary,3/19/2024
+1177,1077,Apparel,South,380.71,7,23,Female,1/23/2024
+1178,1097,Sneakers,East,924.02,9,70,Male,5/6/2024
+1179,1054,Apparel,East,409.09,3,65,Male,2/18/2024
+1180,1164,Sneakers,South,193.09,1,60,Male,4/17/2024
+1181,1159,Apparel,West,2839.25,6,29,Male,2/9/2024
+1182,1190,Sneakers,North,780.59,6,70,Female,3/27/2024
+1183,1093,Electronics,East,1862.04,8,18,Female,5/7/2024
+1184,1062,Accessories,East,483.87,7,25,Male,1/29/2024
+1185,1023,Home Goods,West,1479.94,5,67,Male,3/5/2024
+1186,1169,Accessories,West,102.37,2,28,Male,2/25/2024
+1187,1074,Home Goods,East,1414.97,8,46,Female,4/28/2024
+1188,1021,Apparel,South,1654.52,5,65,Male,1/12/2024
+1189,1103,Home Goods,South,587.92,3,53,Female,1/20/2024
+1190,1084,Home Goods,West,1644,7,54,Female,3/23/2024
+1191,1122,Electronics,South,1741.7,5,35,Female,3/31/2024
+1192,1007,Sneakers,West,411.32,7,64,Male,4/30/2024
+1193,1125,Apparel,West,765.06,4,63,Non-Binary,5/21/2024
+1194,1005,Sneakers,South,535.11,4,21,Female,4/29/2024
+1195,1084,Home Goods,South,143.7,2,34,Male,4/6/2024
+1196,1167,Sneakers,South,337.31,9,37,Female,4/22/2024
+1197,1175,Accessories,South,103.49,3,63,Male,2/4/2024
+1198,1077,Apparel,West,2371.71,6,31,Male,2/2/2024
+1199,1115,Electronics,South,132.44,1,40,Non-Binary,2/22/2024
+1200,1126,Electronics,East,3801.11,9,31,Male,4/3/2024
+1201,1072,Home Goods,East,241.65,7,26,Non-Binary,2/16/2024
+1202,1159,Apparel,North,1724.63,4,40,Male,2/5/2024
+1203,1194,Electronics,North,1814.35,6,45,Non-Binary,3/20/2024
+1204,1038,Apparel,West,1769.08,4,32,Non-Binary,5/5/2024
+1205,1026,Electronics,West,665.23,2,62,Female,1/23/2024
+1206,1060,Sneakers,East,456.04,1,21,Female,4/4/2024
+1207,1107,Sneakers,North,660.12,2,49,Female,1/11/2024
+1208,1175,Accessories,North,319.02,1,61,Non-Binary,5/4/2024
+1209,1106,Sneakers,West,409.09,1,66,Non-Binary,5/10/2024
+1210,1130,Electronics,East,1302.96,5,20,Male,1/20/2024
+1211,1188,Electronics,North,3063.58,7,68,Male,1/4/2024
+1212,1170,Apparel,North,2136.9,6,39,Male,3/24/2024
+1213,1099,Home Goods,North,3156.28,9,41,Female,4/22/2024
+1214,1090,Accessories,North,3840.73,8,43,Male,4/12/2024
+1215,1042,Sneakers,East,3264.12,8,56,Non-Binary,5/28/2024
+1216,1108,Electronics,East,653.78,3,53,Non-Binary,4/22/2024
+1217,1155,Apparel,East,3480.23,9,52,Male,2/16/2024
+1218,1044,Home Goods,East,339.56,2,22,Non-Binary,2/29/2024
+1219,1005,Sneakers,East,1536.98,7,30,Male,1/18/2024
+1220,1061,Accessories,East,2790.16,9,37,Non-Binary,1/8/2024
+1221,1187,Accessories,North,78.66,2,66,Non-Binary,3/16/2024
+1222,1083,Apparel,West,629.45,3,49,Male,3/13/2024
+1223,1139,Apparel,North,261.93,1,40,Male,5/5/2024
+1224,1088,Apparel,West,314.73,2,41,Male,3/29/2024
+1225,1121,Electronics,East,1431.29,10,50,Female,2/26/2024
+1226,1174,Sneakers,North,404.05,10,24,Female,4/5/2024
+1227,1009,Electronics,North,1556.64,4,39,Male,5/15/2024
+1228,1142,Sneakers,South,647.29,4,45,Female,1/7/2024
+1229,1091,Sneakers,North,2388.41,7,25,Female,4/26/2024
+1230,1099,Home Goods,North,1008.77,8,36,Female,3/16/2024
+1231,1072,Home Goods,East,204.44,1,30,Male,5/14/2024
+1232,1109,Accessories,East,245.96,6,26,Non-Binary,1/22/2024
+1233,1161,Sneakers,North,1967.82,7,30,Non-Binary,2/17/2024
+1234,1037,Electronics,South,550.99,3,56,Female,1/26/2024
+1235,1049,Apparel,West,3091.73,10,30,Non-Binary,1/19/2024
+1236,1131,Accessories,South,282.09,5,38,Non-Binary,4/27/2024
+1237,1028,Apparel,North,1822.34,10,50,Non-Binary,3/5/2024
+1238,1105,Apparel,West,2929.67,7,47,Male,4/17/2024
+1239,1155,Apparel,East,3038.29,8,43,Male,1/28/2024
+1240,1002,Home Goods,South,550.43,9,19,Non-Binary,3/30/2024
+1241,1058,Accessories,East,2818.93,6,41,Male,5/1/2024
+1242,1146,Home Goods,South,1356.89,8,47,Female,5/24/2024
+1243,1019,Accessories,South,2980.38,10,70,Female,1/19/2024
+1244,1112,Apparel,East,2444.13,8,24,Non-Binary,5/31/2024
+1245,1162,Sneakers,West,1980.31,10,36,Female,4/4/2024
+1246,1047,Home Goods,East,634.49,5,24,Non-Binary,2/17/2024
+1247,1076,Sneakers,South,4116.32,9,68,Male,3/1/2024
+1248,1143,Accessories,West,3645.85,9,40,Female,2/20/2024
+1249,1086,Electronics,South,2400.03,5,58,Non-Binary,2/1/2024
+1250,1052,Sneakers,West,1281.21,7,25,Non-Binary,3/17/2024
+1251,1044,Home Goods,North,1228.92,5,53,Non-Binary,4/17/2024
+1252,1165,Electronics,West,659.61,2,22,Male,3/23/2024
+1253,1037,Electronics,East,1660.2,7,50,Female,1/26/2024
+1254,1117,Home Goods,West,1208.08,3,40,Female,1/29/2024
+1255,1063,Home Goods,South,1910.52,4,36,Male,4/9/2024
+1256,1168,Accessories,South,1245.03,8,28,Non-Binary,1/10/2024
+1257,1143,Accessories,North,1238.65,7,66,Female,1/12/2024
+1258,1175,Accessories,North,3233.49,10,32,Male,2/2/2024
+1259,1127,Accessories,South,1249.23,4,29,Non-Binary,4/26/2024
+1260,1094,Electronics,West,866.48,3,49,Female,2/19/2024
+1261,1030,Accessories,North,1374.82,4,57,Male,1/26/2024
+1262,1186,Electronics,East,2981.37,6,18,Female,5/29/2024
+1263,1085,Accessories,East,263.06,1,44,Male,3/13/2024
+1264,1135,Accessories,South,1269.17,8,58,Female,1/21/2024
+1265,1083,Apparel,North,1719.46,4,57,Female,5/31/2024
+1266,1137,Home Goods,East,3980.09,8,46,Male,2/1/2024
+1267,1050,Apparel,South,2308.17,6,70,Female,1/13/2024
+1268,1016,Home Goods,East,2819.61,6,56,Female,5/3/2024
+1269,1085,Accessories,East,1231.39,6,27,Non-Binary,4/10/2024
+1270,1101,Accessories,North,3166.19,7,33,Female,1/21/2024
+1271,1011,Apparel,South,1365.12,6,47,Non-Binary,1/15/2024
+1272,1168,Accessories,West,1117.09,4,42,Male,3/27/2024
+1273,1174,Sneakers,South,2999.92,8,26,Non-Binary,3/10/2024
+1274,1118,Home Goods,South,2354.2,9,52,Male,2/17/2024
+1275,1168,Accessories,North,2866.17,10,35,Female,5/15/2024
+1276,1106,Sneakers,South,3396.83,8,67,Non-Binary,5/27/2024
+1277,1046,Electronics,North,336.95,8,36,Non-Binary,5/10/2024
+1278,1134,Electronics,North,1008.35,7,41,Female,5/17/2024
+1279,1018,Apparel,West,208.81,9,49,Female,3/30/2024
+1280,1196,Home Goods,North,1869.24,6,29,Female,4/6/2024
+1281,1105,Apparel,East,42.2,1,18,Non-Binary,5/23/2024
+1282,1005,Sneakers,West,4086.96,9,56,Female,3/27/2024
+1283,1106,Sneakers,West,1108.01,6,45,Male,3/6/2024
+1284,1150,Electronics,South,3282.89,8,18,Female,4/18/2024
+1285,1007,Sneakers,North,729.41,2,27,Female,4/30/2024
+1286,1117,Home Goods,East,321.92,6,48,Non-Binary,3/25/2024
+1287,1065,Apparel,North,1944.27,5,23,Female,5/7/2024
+1288,1128,Accessories,West,641.25,2,19,Non-Binary,1/19/2024
+1289,1001,Sneakers,South,502.72,4,38,Non-Binary,4/27/2024
+1290,1015,Electronics,East,705.94,2,66,Male,1/13/2024
+1291,1062,Accessories,West,2946.36,6,40,Female,1/19/2024
+1292,1050,Apparel,North,1240.08,5,38,Non-Binary,1/30/2024
+1293,1144,Sneakers,South,842.97,4,33,Female,3/26/2024
+1294,1034,Accessories,South,199.85,3,38,Male,4/12/2024
+1295,1086,Electronics,West,223.22,2,67,Non-Binary,1/20/2024
+1296,1130,Electronics,East,1793.25,5,33,Male,5/3/2024
+1297,1033,Apparel,East,3050.39,7,55,Male,3/10/2024
+1298,1188,Electronics,West,380.96,2,53,Male,5/1/2024
+1299,1079,Sneakers,West,1397.61,4,55,Male,3/22/2024
+1300,1159,Apparel,West,449.3,1,66,Male,3/9/2024
+1301,1094,Electronics,West,418.04,9,55,Non-Binary,4/21/2024
+1302,1154,Apparel,East,3655.31,8,58,Male,5/27/2024
+1303,1061,Accessories,West,1833.69,4,21,Female,2/20/2024
+1304,1062,Accessories,South,347.92,8,47,Male,4/24/2024
+1305,1036,Home Goods,East,580.04,6,52,Non-Binary,1/12/2024
+1306,1094,Electronics,East,1493.98,5,63,Male,1/9/2024
+1307,1107,Sneakers,West,821.38,7,39,Male,3/27/2024
+1308,1047,Home Goods,North,744.17,2,21,Female,2/7/2024
+1309,1054,Apparel,North,1957.84,9,25,Male,2/11/2024
+1310,1182,Sneakers,West,124.39,10,26,Female,5/6/2024
+1311,1087,Electronics,West,556.03,7,44,Male,3/8/2024
+1312,1184,Sneakers,West,1012.56,5,63,Male,5/23/2024
+1313,1110,Apparel,East,2509.54,6,70,Male,1/2/2024
+1314,1069,Accessories,South,407.14,1,42,Non-Binary,1/28/2024
+1315,1088,Apparel,West,938.62,2,53,Male,2/15/2024
+1316,1025,Sneakers,East,473.28,1,24,Non-Binary,2/15/2024
+1317,1171,Home Goods,East,3641.4,10,38,Non-Binary,5/13/2024
+1318,1093,Electronics,South,460.43,2,43,Female,3/25/2024
+1319,1002,Home Goods,West,140.74,2,28,Female,1/11/2024
+1320,1065,Apparel,South,2231.54,7,52,Non-Binary,3/21/2024
+1321,1043,Apparel,East,2242.71,7,65,Female,4/2/2024
+1322,1194,Electronics,South,207.07,3,43,Male,5/21/2024
+1323,1079,Sneakers,South,2866.48,9,22,Non-Binary,5/24/2024
+1324,1052,Sneakers,South,676,2,24,Male,1/12/2024
+1325,1048,Apparel,East,386.28,2,63,Female,3/23/2024
+1326,1072,Home Goods,North,3856.57,10,64,Male,5/24/2024
+1327,1095,Home Goods,West,688.71,7,69,Non-Binary,1/21/2024
+1328,1172,Sneakers,North,3261.87,8,60,Non-Binary,2/5/2024
+1329,1024,Electronics,East,1223.33,8,68,Female,4/28/2024
+1330,1178,Electronics,North,1049.6,4,70,Male,3/23/2024
+1331,1010,Sneakers,West,2993.49,6,67,Female,3/23/2024
+1332,1194,Electronics,North,974.39,4,47,Female,3/30/2024
+1333,1030,Accessories,South,697.64,3,40,Male,5/3/2024
+1334,1189,Home Goods,North,1032,6,65,Non-Binary,5/14/2024
+1335,1109,Accessories,North,2450.44,10,37,Female,4/7/2024
+1336,1028,Apparel,West,1557.96,7,34,Male,4/16/2024
+1337,1104,Electronics,North,432.12,6,44,Female,1/18/2024
+1338,1028,Apparel,East,709.8,7,32,Male,3/20/2024
+1339,1120,Apparel,West,563.85,9,67,Female,3/26/2024
+1340,1051,Home Goods,North,484.9,1,63,Female,4/4/2024
+1341,1191,Electronics,East,1154.85,10,62,Male,5/1/2024
+1342,1142,Sneakers,South,692.09,4,42,Male,5/11/2024
+1343,1003,Home Goods,North,1429.18,5,40,Female,5/1/2024
+1344,1168,Accessories,West,1104.07,5,28,Female,3/12/2024
+1345,1136,Apparel,North,97.74,1,56,Non-Binary,5/30/2024
+1346,1185,Apparel,North,3146.77,8,62,Female,5/23/2024
+1347,1185,Apparel,North,740.69,2,67,Female,3/2/2024
+1348,1061,Accessories,South,1031.61,5,64,Non-Binary,2/2/2024
+1349,1103,Home Goods,East,2283.49,8,70,Male,2/25/2024
+1350,1055,Apparel,East,1786.67,6,65,Male,4/29/2024
+1351,1079,Sneakers,West,125.73,1,54,Male,2/5/2024
+1352,1076,Sneakers,South,1346.6,4,42,Male,1/12/2024
+1353,1090,Accessories,West,219.99,8,55,Non-Binary,5/10/2024
+1354,1162,Sneakers,North,1304.44,3,51,Non-Binary,4/15/2024
+1355,1128,Accessories,North,261.4,1,36,Male,4/24/2024
+1356,1044,Home Goods,North,4232.75,9,43,Male,5/27/2024
+1357,1186,Electronics,North,561.51,4,18,Non-Binary,1/5/2024
+1358,1041,Home Goods,East,1573.15,7,30,Female,5/12/2024
+1359,1023,Home Goods,North,308.77,4,25,Male,1/4/2024
+1360,1100,Accessories,North,375.4,7,20,Male,5/6/2024
+1361,1135,Accessories,West,1721.69,4,56,Female,3/2/2024
+1362,1042,Sneakers,South,17.67,1,24,Female,3/31/2024
+1363,1142,Sneakers,North,2885.7,8,38,Non-Binary,1/26/2024
+1364,1094,Electronics,West,1859.06,7,59,Male,2/9/2024
+1365,1184,Sneakers,South,490.85,1,18,Female,2/27/2024
+1366,1108,Electronics,North,2692.44,6,47,Non-Binary,4/10/2024
+1367,1063,Home Goods,East,277.33,3,36,Female,1/17/2024
+1368,1076,Sneakers,West,366.54,8,29,Male,1/8/2024
+1369,1163,Electronics,North,986.7,3,43,Female,3/9/2024
+1370,1074,Home Goods,East,1968.74,8,24,Male,5/8/2024
+1371,1172,Sneakers,North,897.13,2,28,Male,2/4/2024
+1372,1031,Home Goods,West,1213.77,3,53,Male,3/11/2024
+1373,1184,Sneakers,North,777.33,2,61,Non-Binary,1/3/2024
+1374,1103,Home Goods,North,3746.3,8,39,Female,5/10/2024
+1375,1112,Apparel,East,1261.01,4,24,Female,2/15/2024
+1376,1106,Sneakers,East,466.94,2,22,Male,1/18/2024
+1377,1057,Sneakers,South,1814.94,6,35,Non-Binary,5/4/2024
+1378,1026,Electronics,East,1119.6,6,28,Female,3/8/2024
+1379,1040,Sneakers,East,858.72,8,49,Non-Binary,1/5/2024
+1380,1068,Apparel,East,669.39,4,50,Non-Binary,5/16/2024
+1381,1188,Electronics,East,499.47,4,52,Male,1/19/2024
+1382,1025,Sneakers,South,1724.18,4,24,Female,4/7/2024
+1383,1192,Electronics,South,938.97,10,25,Non-Binary,2/5/2024
+1384,1138,Apparel,North,3166.03,7,42,Female,1/21/2024
+1385,1196,Home Goods,West,566.59,2,37,Male,2/23/2024
+1386,1003,Home Goods,North,2884.17,6,37,Female,3/15/2024
+1387,1106,Sneakers,South,440.46,3,18,Female,2/9/2024
+1388,1007,Sneakers,North,1644.08,4,52,Female,3/16/2024
+1389,1169,Accessories,West,27.81,2,37,Non-Binary,5/9/2024
+1390,1052,Sneakers,East,381.1,10,55,Female,3/6/2024
+1391,1011,Apparel,East,1101.35,3,42,Male,4/13/2024
+1392,1022,Apparel,North,2035.33,5,20,Male,3/5/2024
+1393,1057,Sneakers,West,3883.02,10,20,Female,4/20/2024
+1394,1054,Apparel,East,2576.79,9,57,Female,3/1/2024
+1395,1162,Sneakers,South,783.74,3,68,Non-Binary,1/10/2024
+1396,1101,Accessories,North,732.97,3,44,Non-Binary,5/7/2024
+1397,1193,Electronics,East,4204.22,9,58,Non-Binary,4/23/2024
+1398,1102,Home Goods,East,467.01,4,49,Male,2/14/2024
+1399,1030,Accessories,East,1405.12,9,66,Female,5/19/2024
+1400,1164,Sneakers,West,778.77,4,21,Male,5/6/2024
+1401,1158,Accessories,East,2124.04,5,40,Non-Binary,4/27/2024
+1402,1074,Home Goods,East,44.18,1,69,Female,2/12/2024
+1403,1064,Electronics,North,264.97,3,61,Female,5/8/2024
+1404,1187,Accessories,East,1329.17,3,69,Non-Binary,3/6/2024
+1405,1124,Apparel,East,418.37,7,57,Male,2/28/2024
+1406,1070,Accessories,East,779.65,7,22,Non-Binary,4/30/2024
+1407,1013,Sneakers,East,662.04,3,19,Female,2/18/2024
+1408,1151,Accessories,South,724.56,3,24,Male,2/9/2024
+1409,1183,Apparel,West,2967.46,6,21,Male,3/3/2024
+1410,1168,Accessories,South,2940.48,8,49,Male,4/7/2024
+1411,1089,Sneakers,East,659.98,6,63,Non-Binary,4/4/2024
+1412,1106,Sneakers,West,1457.11,3,18,Female,4/16/2024
+1413,1003,Home Goods,East,127.64,5,56,Female,2/7/2024
+1414,1157,Electronics,West,1595.92,5,45,Male,3/23/2024
+1415,1024,Electronics,North,827.14,3,66,Female,5/16/2024
+1416,1075,Accessories,East,115.29,3,28,Female,2/11/2024
+1417,1088,Apparel,South,804.03,4,29,Female,2/19/2024
+1418,1070,Accessories,West,935.55,9,61,Non-Binary,1/26/2024
+1419,1107,Sneakers,East,2420.08,10,22,Female,5/18/2024
+1420,1197,Accessories,South,234.23,1,60,Non-Binary,1/6/2024
+1421,1042,Sneakers,East,2526.78,6,54,Male,2/17/2024
+1422,1142,Sneakers,South,635.5,7,67,Non-Binary,1/24/2024
+1423,1059,Apparel,West,93.73,1,67,Female,5/4/2024
+1424,1157,Electronics,South,2017.58,5,62,Non-Binary,3/2/2024
+1425,1189,Home Goods,East,377.01,1,31,Non-Binary,2/19/2024
+1426,1151,Accessories,North,3497.54,8,29,Non-Binary,1/13/2024
+1427,1190,Sneakers,West,2611.97,6,50,Non-Binary,3/26/2024
+1428,1181,Sneakers,East,117.75,1,36,Non-Binary,5/12/2024
+1429,1081,Apparel,South,199.58,2,29,Male,2/10/2024
+1430,1122,Electronics,West,761.42,2,57,Non-Binary,4/4/2024
+1431,1110,Apparel,West,2309.82,10,65,Female,4/21/2024
+1432,1190,Sneakers,East,3715.21,8,41,Male,5/6/2024
+1433,1148,Sneakers,West,1184.81,3,46,Male,5/28/2024
+1434,1151,Accessories,West,871.12,7,20,Female,4/16/2024
+1435,1158,Accessories,North,182.2,1,66,Non-Binary,2/5/2024
+1436,1101,Accessories,North,294.91,3,44,Female,4/25/2024
+1437,1020,Apparel,West,1068.45,9,64,Female,1/3/2024
+1438,1064,Electronics,South,1371.18,3,44,Female,3/23/2024
+1439,1023,Home Goods,West,1498.24,3,39,Male,1/26/2024
+1440,1004,Apparel,South,1596.17,4,55,Female,3/28/2024
+1441,1145,Sneakers,North,740.12,2,35,Non-Binary,2/1/2024
+1442,1169,Accessories,West,767.47,7,23,Female,3/24/2024
+1443,1176,Home Goods,East,517.44,2,33,Non-Binary,1/3/2024
+1444,1152,Electronics,West,1554.86,9,64,Male,4/10/2024
+1445,1177,Accessories,South,1898.12,6,49,Male,1/30/2024
+1446,1018,Apparel,West,886.68,10,29,Male,5/30/2024
+1447,1008,Electronics,East,1112.71,5,62,Non-Binary,3/11/2024
+1448,1040,Sneakers,East,1141.66,5,64,Non-Binary,4/10/2024
+1449,1110,Apparel,East,3249.02,7,48,Male,5/22/2024
+1450,1065,Apparel,South,246.76,7,47,Female,3/31/2024
+1451,1108,Electronics,North,3285.43,9,65,Non-Binary,4/21/2024
+1452,1146,Home Goods,South,1363.04,3,24,Male,4/19/2024
+1453,1007,Sneakers,North,1458.83,7,36,Non-Binary,4/30/2024
+1454,1090,Accessories,West,1165.51,3,20,Non-Binary,5/22/2024
+1455,1163,Electronics,North,326.25,2,62,Male,2/20/2024
+1456,1013,Sneakers,East,3902.33,9,29,Female,1/30/2024
+1457,1130,Electronics,East,142.89,6,22,Non-Binary,4/15/2024
+1458,1173,Home Goods,North,190.88,1,64,Non-Binary,5/23/2024
+1459,1006,Accessories,South,3308.87,10,38,Female,5/15/2024
+1460,1171,Home Goods,South,2021.25,7,49,Female,3/14/2024
+1461,1085,Accessories,West,1274.61,3,57,Non-Binary,2/28/2024
+1462,1132,Electronics,South,853.25,3,51,Female,3/26/2024
+1463,1081,Apparel,South,775.12,3,37,Non-Binary,5/13/2024
+1464,1193,Electronics,East,122.99,2,27,Female,2/4/2024
+1465,1135,Accessories,East,2351.17,8,67,Non-Binary,4/8/2024
+1466,1107,Sneakers,East,503.83,10,31,Male,5/18/2024
+1467,1141,Sneakers,North,123.81,2,59,Non-Binary,5/23/2024
+1468,1185,Apparel,North,3405.54,7,31,Non-Binary,5/10/2024
+1469,1182,Sneakers,West,962.95,2,21,Female,5/13/2024
+1470,1001,Sneakers,South,59.54,4,38,Non-Binary,2/4/2024
+1471,1024,Electronics,West,516.1,7,25,Male,3/16/2024
+1472,1052,Sneakers,West,763.29,2,64,Female,4/17/2024
+1473,1164,Sneakers,South,736.61,4,43,Male,2/25/2024
+1474,1006,Accessories,East,2232.1,5,38,Male,1/8/2024
+1475,1134,Electronics,North,2551.57,7,26,Female,4/8/2024
+1476,1081,Apparel,West,993.13,2,45,Non-Binary,5/7/2024
+1477,1086,Electronics,North,1141.64,8,65,Male,5/29/2024
+1478,1141,Sneakers,East,67.12,1,44,Non-Binary,5/14/2024
+1479,1136,Apparel,East,1244.34,3,38,Male,3/26/2024
+1480,1105,Apparel,North,125.49,1,38,Non-Binary,5/18/2024
+1481,1021,Apparel,South,235.11,4,34,Male,2/19/2024
+1482,1121,Electronics,West,547.11,8,49,Non-Binary,1/7/2024
+1483,1158,Accessories,West,3346.94,9,69,Male,3/9/2024
+1484,1141,Sneakers,North,675.67,2,55,Male,3/28/2024
+1485,1188,Electronics,South,2833.62,7,67,Non-Binary,1/10/2024
+1486,1162,Sneakers,East,1789,10,42,Female,4/11/2024
+1487,1112,Apparel,West,249.06,2,66,Female,1/17/2024
+1488,1036,Home Goods,West,3996.78,8,22,Female,4/6/2024
+1489,1000,Accessories,North,1876.69,4,27,Female,4/2/2024
+1490,1047,Home Goods,East,2479.24,6,48,Non-Binary,4/14/2024
+1491,1117,Home Goods,North,1053.27,6,64,Non-Binary,4/3/2024
+1492,1186,Electronics,West,1101.98,6,19,Male,4/5/2024
+1493,1167,Sneakers,East,406.13,5,22,Non-Binary,4/15/2024
+1494,1028,Apparel,South,2504.57,6,59,Non-Binary,3/18/2024
+1495,1149,Home Goods,East,154.8,5,59,Male,1/2/2024
+1496,1168,Accessories,East,1002.84,10,47,Female,4/9/2024
+1497,1174,Sneakers,North,3957.32,8,28,Non-Binary,1/14/2024
+1498,1014,Accessories,West,2240.67,7,55,Male,5/14/2024
+1499,1007,Sneakers,South,1392.82,5,68,Non-Binary,1/1/2024
+1500,1182,Sneakers,South,1935.53,8,34,Non-Binary,2/3/2024
+1501,1100,Accessories,North,1112.39,6,60,Female,3/13/2024
+1502,1162,Sneakers,South,1371.11,3,25,Non-Binary,4/23/2024
+1503,1007,Sneakers,East,238.56,3,40,Male,1/7/2024
+1504,1151,Accessories,North,4621.54,10,44,Male,1/29/2024
+1505,1195,Sneakers,West,445.77,6,69,Female,5/25/2024
+1506,1168,Accessories,East,1180.31,6,64,Non-Binary,1/31/2024
+1507,1012,Electronics,North,327.62,6,55,Male,1/8/2024
+1508,1119,Home Goods,South,3326.49,10,32,Non-Binary,4/17/2024
+1509,1074,Home Goods,West,763.37,2,47,Non-Binary,2/16/2024
+1510,1080,Home Goods,East,1054.7,8,36,Non-Binary,3/1/2024
+1511,1116,Electronics,North,816.13,4,48,Female,5/25/2024
+1512,1185,Apparel,East,41.67,2,43,Male,4/1/2024
+1513,1164,Sneakers,East,649.68,2,48,Non-Binary,2/19/2024
+1514,1069,Accessories,South,1864.07,4,22,Non-Binary,3/12/2024
+1515,1025,Sneakers,East,643.66,4,27,Non-Binary,2/27/2024
+1516,1158,Accessories,East,782.24,8,70,Male,1/4/2024
+1517,1052,Sneakers,East,2343.4,5,55,Male,5/29/2024
+1518,1020,Apparel,West,421.57,9,44,Male,2/27/2024
+1519,1059,Apparel,East,242.76,3,66,Male,2/22/2024
+1520,1080,Home Goods,North,1019.56,6,35,Male,2/18/2024
+1521,1004,Apparel,South,209.03,1,61,Female,1/7/2024
+1522,1082,Accessories,South,1649.82,9,70,Female,2/29/2024
+1523,1137,Home Goods,North,2403.65,7,49,Female,3/21/2024
+1524,1003,Home Goods,South,226.26,9,34,Male,1/6/2024
+1525,1152,Electronics,West,1300.75,7,52,Female,3/13/2024
+1526,1081,Apparel,North,411.98,10,31,Male,4/10/2024
+1527,1015,Electronics,South,388.08,5,59,Male,5/12/2024
+1528,1179,Sneakers,North,2674.52,9,32,Male,4/20/2024
+1529,1043,Apparel,West,348.26,2,40,Non-Binary,4/19/2024
+1530,1055,Apparel,North,352.5,6,67,Female,2/3/2024
+1531,1153,Home Goods,East,838.64,4,53,Non-Binary,4/18/2024
+1532,1155,Apparel,West,240.88,1,45,Male,2/3/2024
+1533,1151,Accessories,West,4869.31,10,38,Non-Binary,3/13/2024
+1534,1178,Electronics,East,1915.53,6,18,Male,5/27/2024
+1535,1009,Electronics,South,4227.86,9,37,Female,5/16/2024
+1536,1056,Accessories,North,1944.2,9,69,Female,3/25/2024
+1537,1168,Accessories,South,206.12,1,52,Non-Binary,2/20/2024
+1538,1046,Electronics,West,2465.93,5,41,Male,5/21/2024
+1539,1044,Home Goods,North,2062.03,10,64,Non-Binary,4/22/2024
+1540,1024,Electronics,East,2913.85,10,57,Non-Binary,2/29/2024
+1541,1042,Sneakers,South,2518.02,9,57,Non-Binary,5/7/2024
+1542,1175,Accessories,West,89.72,3,35,Male,3/30/2024
+1543,1007,Sneakers,South,4119.43,10,39,Female,5/8/2024
+1544,1090,Accessories,West,1090.21,5,39,Non-Binary,2/27/2024
+1545,1124,Apparel,South,305.62,7,24,Non-Binary,2/1/2024
+1546,1023,Home Goods,South,595.97,2,47,Female,3/31/2024
+1547,1190,Sneakers,South,395.47,1,33,Male,1/31/2024
+1548,1123,Accessories,West,1506.85,4,53,Female,3/16/2024
+1549,1153,Home Goods,West,3040.69,8,59,Female,2/15/2024
+1550,1102,Home Goods,East,1373.61,9,21,Female,3/24/2024
+1551,1183,Apparel,South,3997.57,9,20,Non-Binary,5/31/2024
+1552,1011,Apparel,South,4361.78,9,22,Male,4/19/2024
+1553,1044,Home Goods,South,986.22,4,70,Male,4/28/2024
+1554,1063,Home Goods,North,323.84,5,64,Male,5/19/2024
+1555,1043,Apparel,South,1596.03,4,70,Female,5/15/2024
+1556,1165,Electronics,East,2744.12,7,67,Non-Binary,2/2/2024
+1557,1044,Home Goods,East,1255.08,5,28,Non-Binary,1/21/2024
+1558,1133,Apparel,North,671.7,9,31,Non-Binary,2/5/2024
+1559,1181,Sneakers,West,3780.9,9,31,Female,1/8/2024
+1560,1111,Accessories,North,1498.15,9,33,Non-Binary,5/9/2024
+1561,1032,Apparel,East,66.41,6,40,Female,5/12/2024
+1562,1043,Apparel,North,2038.52,6,46,Male,3/19/2024
+1563,1077,Apparel,North,253.9,1,69,Non-Binary,5/24/2024
+1564,1187,Accessories,North,1925.58,5,58,Non-Binary,1/26/2024
+1565,1048,Apparel,East,977.4,3,40,Male,5/7/2024
+1566,1123,Accessories,South,635.46,2,34,Male,4/26/2024
+1567,1008,Electronics,South,1513.86,5,24,Non-Binary,4/9/2024
+1568,1071,Accessories,West,586.48,3,66,Male,5/31/2024
+1569,1007,Sneakers,East,576.73,2,40,Male,1/6/2024
+1570,1031,Home Goods,West,2388.17,5,48,Male,2/8/2024
+1571,1049,Apparel,North,1456.44,7,69,Female,3/26/2024
+1572,1165,Electronics,South,2105.82,10,32,Male,1/31/2024
+1573,1094,Electronics,East,2259.15,7,44,Male,3/21/2024
+1574,1136,Apparel,South,776.93,3,45,Male,5/28/2024
+1575,1185,Apparel,South,1886.48,8,53,Male,2/24/2024
+1576,1065,Apparel,North,1623,6,65,Non-Binary,4/19/2024
+1577,1001,Sneakers,South,2245.39,7,28,Male,5/24/2024
+1578,1113,Apparel,East,878.52,4,64,Female,1/26/2024
+1579,1094,Electronics,West,2169.57,9,29,Female,3/15/2024
+1580,1156,Home Goods,South,2887.13,7,18,Female,4/29/2024
+1581,1152,Electronics,East,517.95,5,36,Non-Binary,4/12/2024
+1582,1048,Apparel,East,1432.05,7,70,Non-Binary,5/29/2024
+1583,1040,Sneakers,South,175.3,2,29,Non-Binary,4/7/2024
+1584,1086,Electronics,South,109.21,1,24,Female,2/11/2024
+1585,1152,Electronics,West,264.37,1,30,Female,2/5/2024
+1586,1159,Apparel,West,1359.29,3,58,Female,1/16/2024
+1587,1013,Sneakers,South,307.63,1,30,Non-Binary,3/11/2024
+1588,1086,Electronics,East,601.24,3,48,Non-Binary,1/7/2024
+1589,1000,Accessories,West,492.58,2,41,Male,5/8/2024
+1590,1134,Electronics,North,985.17,9,60,Male,3/18/2024
+1591,1167,Sneakers,South,2015.16,5,27,Non-Binary,4/11/2024
+1592,1137,Home Goods,North,3254.2,9,54,Non-Binary,3/21/2024
+1593,1073,Accessories,North,2638.57,10,53,Female,5/26/2024
+1594,1039,Accessories,West,3338.11,10,27,Female,5/21/2024
+1595,1065,Apparel,East,3995.55,10,48,Male,3/28/2024
+1596,1198,Sneakers,East,1420.2,6,22,Female,1/22/2024
+1597,1019,Accessories,South,164.11,3,27,Non-Binary,3/12/2024
+1598,1024,Electronics,North,2940.07,8,40,Female,4/3/2024
+1599,1121,Electronics,West,1228.36,4,68,Male,5/4/2024
+1600,1123,Accessories,East,2995.12,9,64,Non-Binary,5/30/2024
+1601,1007,Sneakers,East,1890.92,7,30,Male,4/5/2024
+1602,1091,Sneakers,West,952.67,3,24,Non-Binary,3/7/2024
+1603,1165,Electronics,South,669.45,3,20,Female,5/17/2024
+1604,1158,Accessories,South,2170.8,7,26,Male,2/2/2024
+1605,1125,Apparel,East,127.5,5,53,Non-Binary,5/25/2024
+1606,1047,Home Goods,South,1989.91,9,49,Male,1/5/2024
+1607,1039,Accessories,South,1328.56,7,39,Male,4/28/2024
+1608,1045,Sneakers,East,397.07,3,68,Non-Binary,3/18/2024
+1609,1011,Apparel,West,373.36,4,22,Male,2/18/2024
+1610,1128,Accessories,West,973.89,2,20,Male,1/26/2024
+1611,1176,Home Goods,West,2837.06,6,38,Non-Binary,2/7/2024
+1612,1111,Accessories,East,728.03,8,23,Female,3/11/2024
+1613,1035,Home Goods,North,68.11,1,42,Non-Binary,2/4/2024
+1614,1077,Apparel,North,1109.1,7,61,Female,4/8/2024
+1615,1039,Accessories,East,202.48,5,19,Non-Binary,2/26/2024
+1616,1046,Electronics,North,1657.69,6,59,Male,2/17/2024
+1617,1107,Sneakers,West,1216.2,9,48,Female,4/3/2024
+1618,1129,Home Goods,South,200.22,1,53,Female,4/7/2024
+1619,1014,Accessories,East,250.01,5,29,Female,3/16/2024
+1620,1183,Apparel,East,3641.09,9,52,Non-Binary,2/7/2024
+1621,1181,Sneakers,South,2710.2,8,54,Female,3/2/2024
+1622,1134,Electronics,East,878.71,2,34,Female,3/6/2024
+1623,1063,Home Goods,East,2866.03,7,40,Non-Binary,4/5/2024
+1624,1016,Home Goods,West,1990.43,7,37,Non-Binary,1/29/2024
+1625,1009,Electronics,South,2266.16,5,49,Non-Binary,4/9/2024
+1626,1111,Accessories,North,397.24,5,52,Male,3/4/2024
+1627,1073,Accessories,West,1491.14,6,65,Male,1/28/2024
+1628,1169,Accessories,West,981.48,3,58,Non-Binary,5/17/2024
+1629,1119,Home Goods,North,299.79,6,22,Non-Binary,3/29/2024
+1630,1072,Home Goods,North,255.94,6,49,Male,2/10/2024
+1631,1028,Apparel,East,1418.63,10,61,Male,4/26/2024
+1632,1125,Apparel,North,86.63,2,63,Non-Binary,1/18/2024
+1633,1058,Accessories,North,1161.41,9,22,Non-Binary,5/27/2024
+1634,1103,Home Goods,East,2308.68,10,18,Female,2/4/2024
+1635,1082,Accessories,South,2496.85,9,40,Female,1/30/2024
+1636,1104,Electronics,West,411.48,2,61,Female,5/7/2024
+1637,1139,Apparel,South,1975.94,5,37,Non-Binary,2/29/2024
+1638,1039,Accessories,East,547.69,5,44,Female,1/19/2024
+1639,1094,Electronics,South,895.86,4,51,Female,2/22/2024
+1640,1098,Accessories,North,375.91,7,45,Female,5/9/2024
+1641,1102,Home Goods,East,1640.73,9,26,Male,4/9/2024
+1642,1052,Sneakers,South,2545.05,8,21,Male,4/22/2024
+1643,1090,Accessories,South,1457.67,4,60,Non-Binary,2/14/2024
+1644,1085,Accessories,East,489.84,3,58,Non-Binary,5/20/2024
+1645,1129,Home Goods,West,649.33,2,70,Non-Binary,3/27/2024
+1646,1091,Sneakers,East,2325.26,7,41,Male,5/6/2024
+1647,1071,Accessories,East,2288.44,8,18,Female,3/14/2024
+1648,1018,Apparel,West,820.91,4,20,Male,1/3/2024
+1649,1043,Apparel,East,41.01,4,61,Non-Binary,5/7/2024
+1650,1136,Apparel,South,1941.17,5,64,Female,1/4/2024
+1651,1093,Electronics,North,2423.21,5,67,Male,4/20/2024
+1652,1062,Accessories,South,2561.41,9,26,Non-Binary,5/22/2024
+1653,1148,Sneakers,South,1916.26,10,27,Female,2/19/2024
+1654,1066,Electronics,South,4049.73,10,43,Female,5/23/2024
+1655,1111,Accessories,South,671.94,4,49,Male,1/26/2024
+1656,1095,Home Goods,South,3348.81,8,58,Female,2/19/2024
+1657,1056,Accessories,North,33.75,1,69,Male,5/22/2024
+1658,1056,Accessories,South,2689.81,8,57,Female,4/1/2024
+1659,1140,Sneakers,South,188.68,3,19,Non-Binary,2/4/2024
+1660,1108,Electronics,North,1668.67,4,43,Female,4/12/2024
+1661,1043,Apparel,South,452.82,2,49,Female,1/16/2024
+1662,1169,Accessories,East,1886.83,10,43,Male,4/18/2024
+1663,1009,Electronics,West,871.61,5,64,Female,4/7/2024
+1664,1100,Accessories,East,388.06,1,63,Non-Binary,4/8/2024
+1665,1040,Sneakers,East,50,4,30,Male,4/18/2024
+1666,1196,Home Goods,South,2560.53,10,31,Male,4/21/2024
+1667,1153,Home Goods,West,1058.43,4,48,Female,3/4/2024
+1668,1152,Electronics,West,280.87,6,18,Non-Binary,1/4/2024
+1669,1152,Electronics,East,200.21,1,33,Female,2/16/2024
+1670,1043,Apparel,East,2171.81,9,55,Male,5/16/2024
+1671,1121,Electronics,East,370.82,6,40,Female,4/25/2024
+1672,1056,Accessories,East,1123.31,7,59,Female,5/21/2024
+1673,1010,Sneakers,North,3097.57,8,44,Non-Binary,2/22/2024
+1674,1186,Electronics,East,4458.22,9,66,Female,5/20/2024
+1675,1144,Sneakers,West,3152.85,8,47,Female,5/19/2024
+1676,1159,Apparel,East,3977.22,10,40,Female,2/14/2024
+1677,1011,Apparel,West,135.5,2,39,Male,2/5/2024
+1678,1105,Apparel,South,643.93,5,39,Female,5/30/2024
+1679,1153,Home Goods,West,985.84,6,67,Male,1/27/2024
+1680,1135,Accessories,South,593.5,3,44,Male,5/5/2024
+1681,1166,Home Goods,North,806.46,2,32,Male,2/28/2024
+1682,1163,Electronics,South,21.69,1,34,Female,2/6/2024
+1683,1146,Home Goods,West,1662.04,9,70,Non-Binary,2/24/2024
+1684,1143,Accessories,East,740.42,3,25,Male,3/23/2024
+1685,1084,Home Goods,West,545.15,6,66,Male,5/9/2024
+1686,1156,Home Goods,West,750.69,3,46,Non-Binary,5/12/2024
+1687,1128,Accessories,West,267.38,1,55,Non-Binary,4/9/2024
+1688,1114,Home Goods,East,541.86,3,69,Female,1/5/2024
+1689,1032,Apparel,East,226.49,3,31,Female,5/3/2024
+1690,1182,Sneakers,South,1679.15,6,39,Female,1/30/2024
+1691,1101,Accessories,West,775.5,5,54,Non-Binary,1/20/2024
+1692,1164,Sneakers,South,429.68,1,57,Non-Binary,1/8/2024
+1693,1101,Accessories,East,240.44,10,37,Male,3/30/2024
+1694,1116,Electronics,South,342.38,3,33,Male,5/13/2024
+1695,1072,Home Goods,North,2004.65,8,39,Non-Binary,2/20/2024
+1696,1095,Home Goods,West,149.42,8,40,Male,3/5/2024
+1697,1044,Home Goods,North,1348.19,3,60,Non-Binary,3/20/2024
+1698,1166,Home Goods,South,99.03,5,67,Non-Binary,4/3/2024
+1699,1073,Accessories,South,1628.33,9,47,Male,5/6/2024
+1700,1052,Sneakers,West,445.88,7,63,Non-Binary,4/14/2024
+1701,1175,Accessories,North,2883.58,7,49,Non-Binary,4/7/2024
+1702,1016,Home Goods,West,1115.39,3,43,Non-Binary,4/7/2024
+1703,1049,Apparel,West,3336.66,7,30,Non-Binary,2/4/2024
+1704,1000,Accessories,North,1465.25,3,53,Female,4/8/2024
+1705,1193,Electronics,West,1644.17,4,60,Male,4/7/2024
+1706,1022,Apparel,North,206.27,1,67,Non-Binary,1/15/2024
+1707,1182,Sneakers,North,1465.49,4,44,Male,2/16/2024
+1708,1038,Apparel,South,349.72,2,54,Female,4/2/2024
+1709,1008,Electronics,West,2629.91,7,31,Female,4/18/2024
+1710,1071,Accessories,South,1518.52,4,64,Female,1/9/2024
+1711,1166,Home Goods,East,2616.48,9,29,Male,4/19/2024
+1712,1153,Home Goods,North,1194.36,3,33,Non-Binary,2/22/2024
+1713,1135,Accessories,West,270.77,6,44,Non-Binary,1/17/2024
+1714,1038,Apparel,North,3574.21,10,21,Non-Binary,4/13/2024
+1715,1015,Electronics,East,1884.77,4,50,Non-Binary,3/19/2024
+1716,1100,Accessories,West,546.23,9,49,Female,5/6/2024
+1717,1026,Electronics,West,2900.55,9,62,Female,2/16/2024
+1718,1156,Home Goods,West,1567.95,10,18,Male,4/19/2024
+1719,1178,Electronics,West,1103.4,4,28,Male,4/15/2024
+1720,1110,Apparel,South,478.92,9,37,Female,3/16/2024
+1721,1133,Apparel,East,1428.99,10,54,Female,3/16/2024
+1722,1166,Home Goods,West,1752.71,7,26,Female,1/27/2024
+1723,1136,Apparel,East,313,1,55,Non-Binary,4/13/2024
+1724,1126,Electronics,North,1958.47,4,31,Female,5/27/2024
+1725,1076,Sneakers,East,433.18,7,39,Female,1/4/2024
+1726,1135,Accessories,North,1279.74,3,61,Non-Binary,2/22/2024
+1727,1027,Sneakers,East,3530.91,9,47,Male,2/2/2024
+1728,1193,Electronics,East,1428.53,4,46,Female,5/10/2024
+1729,1076,Sneakers,East,3445.96,10,23,Non-Binary,3/3/2024
+1730,1021,Apparel,North,247.06,5,62,Male,1/1/2024
+1731,1088,Apparel,North,235.66,1,25,Female,5/27/2024
+1732,1060,Sneakers,South,212.56,4,55,Female,3/17/2024
+1733,1055,Apparel,South,543.43,6,19,Non-Binary,3/4/2024
+1734,1095,Home Goods,North,65.68,3,68,Male,2/2/2024
+1735,1193,Electronics,South,1349.86,3,57,Female,1/22/2024
+1736,1171,Home Goods,North,871.18,2,28,Female,1/7/2024
+1737,1023,Home Goods,North,1039.21,9,47,Male,5/2/2024
+1738,1076,Sneakers,East,1040.89,5,22,Non-Binary,4/18/2024
+1739,1194,Electronics,South,786.63,2,44,Non-Binary,2/8/2024
+1740,1176,Home Goods,East,1150,3,47,Male,2/7/2024
+1741,1059,Apparel,South,1902.43,5,56,Male,1/12/2024
+1742,1126,Electronics,West,163.77,6,20,Non-Binary,2/1/2024
+1743,1015,Electronics,North,3747.29,8,25,Female,1/14/2024
+1744,1102,Home Goods,South,1911.18,8,49,Female,3/12/2024
+1745,1004,Apparel,West,1292.47,4,55,Non-Binary,5/28/2024
+1746,1178,Electronics,East,1518.71,5,53,Female,3/7/2024
+1747,1075,Accessories,South,592.49,2,43,Female,3/26/2024
+1748,1149,Home Goods,South,348.75,6,37,Male,3/27/2024
+1749,1180,Accessories,South,273.02,2,37,Male,4/7/2024
+1750,1064,Electronics,South,230.32,3,30,Female,1/29/2024
+1751,1028,Apparel,East,3701.41,8,32,Male,4/30/2024
+1752,1198,Sneakers,North,1256.88,4,45,Non-Binary,5/28/2024
+1753,1174,Sneakers,South,2307.05,8,45,Non-Binary,3/3/2024
+1754,1102,Home Goods,East,1069.84,7,53,Female,5/26/2024
+1755,1056,Accessories,West,3178.16,7,57,Female,3/22/2024
+1756,1120,Apparel,West,186.51,3,38,Non-Binary,1/30/2024
+1757,1112,Apparel,South,40.64,1,56,Non-Binary,3/31/2024
+1758,1003,Home Goods,South,1369.68,5,38,Female,2/13/2024
+1759,1091,Sneakers,South,280.86,2,63,Female,4/10/2024
+1760,1195,Sneakers,West,76.41,6,63,Female,3/14/2024
+1761,1042,Sneakers,South,956.92,2,27,Non-Binary,2/13/2024
+1762,1114,Home Goods,West,1950.79,10,69,Male,1/12/2024
+1763,1057,Sneakers,West,1422.4,3,61,Female,1/20/2024
+1764,1143,Accessories,West,3470.12,8,42,Female,1/30/2024
+1765,1028,Apparel,South,1049.22,6,31,Non-Binary,4/25/2024
+1766,1052,Sneakers,North,1458.51,3,35,Male,5/22/2024
+1767,1198,Sneakers,West,194.74,2,46,Male,1/10/2024
+1768,1085,Accessories,West,348.37,4,19,Non-Binary,5/16/2024
+1769,1187,Accessories,North,353.72,6,20,Male,5/15/2024
+1770,1154,Apparel,North,359.89,4,47,Male,5/30/2024
+1771,1196,Home Goods,South,2142.13,10,21,Male,3/16/2024
+1772,1059,Apparel,North,1059.51,5,34,Non-Binary,4/23/2024
+1773,1115,Electronics,West,773.58,2,20,Non-Binary,1/15/2024
+1774,1152,Electronics,West,573.96,6,48,Non-Binary,2/11/2024
+1775,1102,Home Goods,West,1058.39,3,40,Female,4/12/2024
+1776,1080,Home Goods,West,312.1,5,35,Male,2/21/2024
+1777,1076,Sneakers,North,1016.67,8,39,Male,1/30/2024
+1778,1065,Apparel,East,1624.17,4,27,Female,4/7/2024
+1779,1102,Home Goods,West,1969.09,7,39,Female,1/13/2024
+1780,1094,Electronics,East,553.06,5,58,Non-Binary,2/1/2024
+1781,1012,Electronics,West,968.29,2,69,Male,3/1/2024
+1782,1053,Apparel,West,251.47,1,56,Non-Binary,1/21/2024
+1783,1105,Apparel,East,242.41,1,20,Female,3/10/2024
+1784,1121,Electronics,South,2486.27,6,25,Male,5/9/2024
+1785,1013,Sneakers,North,1858.42,4,23,Female,4/6/2024
+1786,1073,Accessories,West,116.44,1,61,Male,4/11/2024
+1787,1158,Accessories,West,305.69,4,44,Non-Binary,5/20/2024
+1788,1137,Home Goods,South,1102.24,8,41,Non-Binary,4/8/2024
+1789,1022,Apparel,East,454.4,3,58,Male,5/27/2024
+1790,1197,Accessories,North,3489.49,10,50,Female,5/11/2024
+1791,1121,Electronics,West,339.15,3,29,Female,5/7/2024
+1792,1081,Apparel,East,1751.52,5,34,Non-Binary,4/23/2024
+1793,1006,Accessories,West,1580.23,5,62,Non-Binary,1/16/2024
+1794,1168,Accessories,West,2973.86,8,18,Female,4/7/2024
+1795,1089,Sneakers,North,3101.9,9,54,Male,4/15/2024
+1796,1107,Sneakers,East,3745.39,9,52,Non-Binary,5/21/2024
+1797,1148,Sneakers,North,1618.9,9,36,Male,2/10/2024
+1798,1007,Sneakers,North,2050.39,6,23,Female,2/5/2024
+1799,1012,Electronics,East,1920.71,4,45,Male,4/27/2024
+1800,1075,Accessories,South,201.79,1,64,Non-Binary,2/23/2024
+1801,1182,Sneakers,North,650.33,4,50,Female,4/3/2024
+1802,1142,Sneakers,North,1029.3,4,26,Non-Binary,1/3/2024
+1803,1020,Apparel,South,253.26,3,45,Female,1/22/2024
+1804,1015,Electronics,West,3473.12,7,54,Male,4/23/2024
+1805,1117,Home Goods,South,427.14,6,54,Female,4/12/2024
+1806,1016,Home Goods,West,2238.9,7,21,Male,5/30/2024
+1807,1156,Home Goods,North,2931.37,10,23,Non-Binary,4/15/2024
+1808,1136,Apparel,East,92.54,8,18,Non-Binary,1/29/2024
+1809,1117,Home Goods,South,1028.02,10,37,Non-Binary,4/6/2024
+1810,1180,Accessories,East,642.85,5,57,Female,3/14/2024
+1811,1088,Apparel,East,2371.14,8,23,Male,4/23/2024
+1812,1029,Apparel,North,934.4,8,35,Female,4/18/2024
+1813,1192,Electronics,East,382.1,3,34,Male,5/19/2024
+1814,1123,Accessories,North,2131.14,5,56,Male,2/29/2024
+1815,1109,Accessories,North,2242.85,6,64,Female,4/13/2024
+1816,1056,Accessories,South,21.45,1,34,Female,2/4/2024
+1817,1157,Electronics,South,496.31,1,55,Female,5/30/2024
+1818,1175,Accessories,South,3190.93,10,44,Female,5/26/2024
+1819,1138,Apparel,North,1407.54,7,21,Female,3/8/2024
+1820,1090,Accessories,South,112.02,1,23,Non-Binary,1/1/2024
+1821,1077,Apparel,East,532.22,3,27,Female,2/20/2024
+1822,1024,Electronics,East,914.04,2,18,Non-Binary,2/5/2024
+1823,1050,Apparel,East,3905.97,10,65,Non-Binary,5/1/2024
+1824,1155,Apparel,West,73.78,4,45,Female,2/20/2024
+1825,1049,Apparel,North,1348.63,3,26,Female,2/4/2024
+1826,1137,Home Goods,West,499.01,5,28,Female,2/3/2024
+1827,1012,Electronics,South,880.08,2,68,Female,1/13/2024
+1828,1013,Sneakers,East,1253.82,8,43,Non-Binary,5/19/2024
+1829,1107,Sneakers,North,810.12,4,64,Female,5/10/2024
+1830,1067,Accessories,East,842.21,8,29,Female,1/14/2024
+1831,1124,Apparel,South,2619.19,8,40,Female,4/12/2024
+1832,1145,Sneakers,West,332.22,7,51,Male,1/17/2024
+1833,1098,Accessories,West,3442.79,7,59,Female,1/7/2024
+1834,1040,Sneakers,East,829.78,3,59,Female,5/15/2024
+1835,1066,Electronics,North,1132.26,7,59,Female,2/2/2024
+1836,1131,Accessories,North,455.55,1,54,Non-Binary,2/20/2024
+1837,1179,Sneakers,South,1085.35,8,28,Non-Binary,3/18/2024
+1838,1104,Electronics,North,3786.71,10,38,Male,4/14/2024
+1839,1041,Home Goods,South,2239.64,8,62,Male,5/22/2024
+1840,1144,Sneakers,North,2621.78,7,65,Non-Binary,5/1/2024
+1841,1125,Apparel,North,796.92,10,19,Non-Binary,3/19/2024
+1842,1091,Sneakers,South,3948.68,8,59,Male,4/18/2024
+1843,1049,Apparel,North,240.46,3,27,Male,5/8/2024
+1844,1005,Sneakers,West,3436.14,7,28,Non-Binary,4/27/2024
+1845,1137,Home Goods,East,723.42,10,57,Female,3/1/2024
+1846,1182,Sneakers,North,1077.99,8,48,Male,3/18/2024
+1847,1166,Home Goods,East,401.78,1,54,Female,3/29/2024
+1848,1104,Electronics,West,1090.14,3,37,Female,5/27/2024
+1849,1065,Apparel,South,1271.36,4,40,Female,3/22/2024
+1850,1100,Accessories,West,1096.72,7,36,Male,2/16/2024
+1851,1130,Electronics,East,2691.44,7,52,Male,3/5/2024
+1852,1173,Home Goods,East,3329.42,7,66,Female,3/26/2024
+1853,1160,Sneakers,South,3949.82,8,68,Non-Binary,1/10/2024
+1854,1112,Apparel,West,40.07,2,31,Male,1/1/2024
+1855,1176,Home Goods,West,1662.57,7,39,Non-Binary,2/8/2024
+1856,1083,Apparel,North,1362.26,3,45,Male,1/4/2024
+1857,1172,Sneakers,West,1632.62,4,25,Non-Binary,5/15/2024
+1858,1114,Home Goods,North,4094.71,9,19,Male,1/27/2024
+1859,1062,Accessories,West,2222.27,9,28,Male,1/15/2024
+1860,1159,Apparel,North,280.82,9,36,Female,1/25/2024
+1861,1150,Electronics,West,4070.89,9,24,Female,2/20/2024
+1862,1133,Apparel,West,2638.04,6,61,Non-Binary,1/23/2024
+1863,1123,Accessories,West,3977.48,9,48,Non-Binary,1/2/2024
+1864,1063,Home Goods,South,1949.7,4,66,Non-Binary,4/3/2024
+1865,1108,Electronics,East,4802.19,10,64,Male,5/26/2024
+1866,1183,Apparel,North,575.13,7,43,Female,3/30/2024
+1867,1033,Apparel,East,3426.37,8,50,Male,1/30/2024
+1868,1177,Accessories,East,1886.06,6,70,Non-Binary,4/12/2024
+1869,1079,Sneakers,South,671.66,4,36,Female,3/28/2024
+1870,1020,Apparel,East,770.9,6,46,Non-Binary,5/6/2024
+1871,1192,Electronics,North,1220.06,8,34,Non-Binary,1/10/2024
+1872,1175,Accessories,North,1275.7,3,37,Female,5/23/2024
+1873,1112,Apparel,North,1387.04,3,56,Male,4/30/2024
+1874,1192,Electronics,South,1349.62,7,32,Non-Binary,3/18/2024
+1875,1182,Sneakers,South,1179.99,7,68,Male,2/19/2024
+1876,1095,Home Goods,East,196.68,8,23,Female,5/12/2024
+1877,1011,Apparel,West,140.9,1,59,Female,4/25/2024
+1878,1076,Sneakers,South,477.48,2,22,Female,4/11/2024
+1879,1133,Apparel,West,1394.85,3,18,Female,4/23/2024
+1880,1027,Sneakers,North,892.27,6,46,Non-Binary,5/23/2024
+1881,1125,Apparel,South,45.84,2,22,Female,3/20/2024
+1882,1010,Sneakers,South,878.23,7,44,Female,3/6/2024
+1883,1042,Sneakers,South,1655.23,7,27,Non-Binary,5/13/2024
+1884,1049,Apparel,South,1163.84,7,64,Male,1/4/2024
+1885,1145,Sneakers,West,2487.61,7,38,Female,1/4/2024
+1886,1085,Accessories,East,982.15,7,60,Non-Binary,3/19/2024
+1887,1172,Sneakers,West,1567.57,5,20,Male,4/6/2024
+1888,1199,Accessories,West,829.33,7,33,Male,3/21/2024
+1889,1039,Accessories,East,1691.59,4,23,Non-Binary,2/21/2024
+1890,1047,Home Goods,South,1048.2,3,36,Male,4/21/2024
+1891,1151,Accessories,North,4852.13,10,43,Non-Binary,3/5/2024
+1892,1068,Apparel,East,921.88,3,62,Non-Binary,5/3/2024
+1893,1033,Apparel,North,837.98,9,25,Female,4/12/2024
+1894,1181,Sneakers,West,3853.6,9,24,Female,4/13/2024
+1895,1113,Apparel,North,3088.5,9,23,Non-Binary,3/2/2024
+1896,1085,Accessories,South,4477.76,9,23,Male,5/7/2024
+1897,1176,Home Goods,West,1084.17,10,39,Female,4/27/2024
+1898,1076,Sneakers,South,3745.97,9,63,Female,2/13/2024
+1899,1141,Sneakers,East,732.63,2,22,Female,3/9/2024
+1900,1033,Apparel,East,2697.56,6,46,Non-Binary,1/11/2024
+1901,1031,Home Goods,West,3118.48,7,45,Male,5/14/2024
+1902,1086,Electronics,South,2245.34,5,67,Female,5/12/2024
+1903,1030,Accessories,South,825.86,4,65,Male,4/27/2024
+1904,1078,Electronics,West,113.84,8,23,Non-Binary,5/21/2024
+1905,1165,Electronics,West,419.1,2,68,Female,4/23/2024
+1906,1019,Accessories,North,2137.99,6,20,Male,3/25/2024
+1907,1073,Accessories,South,2118.35,5,46,Male,4/29/2024
+1908,1015,Electronics,West,344.9,1,31,Non-Binary,1/5/2024
+1909,1071,Accessories,West,760.47,4,57,Female,2/22/2024
+1910,1025,Sneakers,North,908.14,8,50,Female,2/12/2024
+1911,1052,Sneakers,North,27.07,2,23,Non-Binary,3/1/2024
+1912,1016,Home Goods,East,407.29,9,53,Male,3/15/2024
+1913,1140,Sneakers,North,725.4,4,54,Male,1/24/2024
+1914,1144,Sneakers,South,2162.17,7,39,Non-Binary,1/31/2024
+1915,1127,Accessories,East,2820.48,6,20,Female,4/27/2024
+1916,1102,Home Goods,North,97.99,8,63,Female,1/23/2024
+1917,1133,Apparel,East,893.05,2,37,Non-Binary,1/29/2024
+1918,1090,Accessories,East,66.11,2,51,Male,2/15/2024
+1919,1110,Apparel,South,685.75,5,25,Non-Binary,3/20/2024
+1920,1035,Home Goods,North,1516.41,4,46,Male,3/29/2024
+1921,1134,Electronics,North,2168.81,10,39,Male,5/1/2024
+1922,1173,Home Goods,North,1822.04,10,34,Male,1/28/2024
+1923,1012,Electronics,West,2731.49,10,19,Female,3/16/2024
+1924,1037,Electronics,West,396.04,4,67,Male,3/12/2024
+1925,1185,Apparel,South,603.27,5,18,Female,4/28/2024
+1926,1017,Accessories,South,3793.68,10,36,Non-Binary,1/7/2024
+1927,1125,Apparel,West,438.48,3,57,Male,4/16/2024
+1928,1116,Electronics,South,941.3,2,27,Female,4/27/2024
+1929,1126,Electronics,East,475.09,2,18,Female,2/2/2024
+1930,1119,Home Goods,West,102.59,5,51,Female,4/5/2024
+1931,1125,Apparel,South,900.38,3,20,Female,2/21/2024
+1932,1186,Electronics,South,3609.96,9,26,Female,5/27/2024
+1933,1030,Accessories,South,149.3,9,33,Female,2/1/2024
+1934,1131,Accessories,East,2227.98,9,22,Male,2/2/2024
+1935,1047,Home Goods,West,4036.81,9,70,Female,3/7/2024
+1936,1158,Accessories,East,1311.1,4,40,Non-Binary,3/5/2024
+1937,1173,Home Goods,South,3423.97,7,57,Female,2/14/2024
+1938,1065,Apparel,North,1957.57,7,23,Non-Binary,5/20/2024
+1939,1073,Accessories,West,247.05,6,56,Non-Binary,3/29/2024
+1940,1178,Electronics,West,551.6,6,57,Female,1/8/2024
+1941,1027,Sneakers,South,1567.14,8,38,Female,1/18/2024
+1942,1118,Home Goods,West,3389.92,10,62,Female,3/19/2024
+1943,1046,Electronics,North,1568.31,7,27,Non-Binary,2/11/2024
+1944,1085,Accessories,East,185.13,10,43,Non-Binary,4/13/2024
+1945,1016,Home Goods,West,1446.66,3,46,Female,2/1/2024
+1946,1048,Apparel,West,2074.57,6,68,Non-Binary,4/22/2024
+1947,1059,Apparel,West,206.58,1,28,Non-Binary,5/18/2024
+1948,1007,Sneakers,South,1205.91,3,48,Non-Binary,2/16/2024
+1949,1193,Electronics,North,166.04,9,52,Female,3/26/2024
+1950,1025,Sneakers,East,990.39,4,37,Male,4/14/2024
+1951,1165,Electronics,East,865.48,3,58,Non-Binary,2/13/2024
+1952,1177,Accessories,North,1145.27,4,67,Female,1/3/2024
+1953,1178,Electronics,South,2784.77,7,64,Non-Binary,5/18/2024
+1954,1120,Apparel,North,197.11,3,26,Non-Binary,5/3/2024
+1955,1170,Apparel,West,1020.9,3,21,Male,1/8/2024
+1956,1130,Electronics,North,259.72,2,61,Female,4/24/2024
+1957,1187,Accessories,South,62.7,2,20,Male,4/26/2024
+1958,1040,Sneakers,South,25.75,1,50,Female,5/2/2024
+1959,1149,Home Goods,North,181.14,9,55,Male,1/17/2024
+1960,1050,Apparel,South,3212.13,10,20,Male,2/16/2024
+1961,1170,Apparel,South,2498.36,6,21,Female,2/3/2024
+1962,1120,Apparel,North,478.17,7,24,Male,3/25/2024
+1963,1079,Sneakers,North,2085.91,8,24,Non-Binary,4/15/2024
+1964,1105,Apparel,West,1078.28,4,51,Non-Binary,3/17/2024
+1965,1059,Apparel,South,2427.81,7,18,Female,1/4/2024
+1966,1199,Accessories,East,704.93,9,29,Male,1/11/2024
+1967,1162,Sneakers,East,1358.9,3,28,Female,5/19/2024
+1968,1086,Electronics,West,2028.03,5,19,Non-Binary,3/23/2024
+1969,1112,Apparel,South,942.27,9,50,Female,1/23/2024
+1970,1119,Home Goods,South,995.57,4,62,Female,4/22/2024
+1971,1017,Accessories,North,2323.09,6,18,Male,3/10/2024
+1972,1154,Apparel,West,2013.59,6,28,Male,5/8/2024
+1973,1152,Electronics,North,1291.3,10,22,Non-Binary,3/24/2024
+1974,1073,Accessories,North,367.84,2,65,Female,1/29/2024
+1975,1057,Sneakers,East,346.35,4,32,Non-Binary,3/18/2024
+1976,1083,Apparel,North,389.59,1,32,Non-Binary,1/27/2024
+1977,1181,Sneakers,West,1690.14,4,31,Non-Binary,1/13/2024
+1978,1177,Accessories,West,2786.69,10,42,Male,4/2/2024
+1979,1062,Accessories,East,457.78,1,54,Female,1/28/2024
+1980,1089,Sneakers,East,1861.8,7,33,Female,4/17/2024
+1981,1102,Home Goods,North,1509.81,9,55,Male,5/4/2024
+1982,1135,Accessories,West,2073.77,6,60,Non-Binary,4/17/2024
+1983,1000,Accessories,North,2942.89,6,41,Male,5/21/2024
+1984,1131,Accessories,North,458.05,1,58,Non-Binary,1/15/2024
+1985,1024,Electronics,West,349.16,3,61,Female,2/23/2024
+1986,1044,Home Goods,North,76.76,3,61,Non-Binary,2/14/2024
+1987,1041,Home Goods,North,2322.9,7,64,Non-Binary,1/29/2024
+1988,1159,Apparel,West,32.85,3,36,Male,3/20/2024
+1989,1156,Home Goods,East,2458.88,8,62,Male,4/27/2024
+1990,1083,Apparel,North,208.99,1,19,Male,2/23/2024
+1991,1194,Electronics,East,1563.99,5,51,Female,3/13/2024
+1992,1184,Sneakers,North,2694.63,8,52,Female,1/24/2024
+1993,1169,Accessories,West,1205.79,9,48,Male,5/11/2024
+1994,1092,Accessories,North,735.67,3,55,Male,3/16/2024
+1995,1113,Apparel,West,64.92,2,31,Male,1/30/2024
+1996,1008,Electronics,South,693.33,8,67,Female,3/8/2024
+1997,1031,Home Goods,West,1919.32,4,42,Female,4/28/2024
+1998,1141,Sneakers,East,1178.18,8,38,Non-Binary,3/20/2024
+1999,1008,Electronics,North,1389.96,6,42,Male,1/9/2024
+2000,1151,Accessories,East,1263.86,3,33,Female,3/21/2024
