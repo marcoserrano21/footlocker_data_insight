@@ -1,30 +1,58 @@
-# Project Description (First-Person Point of View)
-As part of my application for the Data Analytics Internship at Foot Locker, I created a data-driven project to analyze retail sales data and provide actionable insights for improving customer experience, inventory management, and sustainability. This project reflects my passion for leveraging data to solve real-world business challenges, aligning perfectly with Foot Locker’s mission to innovate and deliver exceptional retail experiences.
+Retail Sales Analysis Dashboard 📊
 
-Using SQL, Python, and Power BI, I explored key aspects of the business, such as:
+🛍 Project for: Data Analytics Internship @ Foot Locker
 
-Identifying top-selling products and regional sales trends.
+📅 Tools Used: SQL | Python | Power BI
 
-Analyzing customer demographics to improve inclusivity in marketing campaigns.
+____________________________________
 
-Highlighting opportunities to reduce waste and optimize inventory for sustainability.
+📌 Project Description
 
-Through this project, I demonstrated my ability to clean, analyze, and visualize data, as well as communicate insights effectively to drive decision-making.
+As part of my application for the Data Analytics Internship at Foot Locker, I developed this data-driven project to analyze retail sales data and extract actionable insights. My goal was to improve:
 
-Tools Used
-SQL: For data cleaning and aggregation.
+✔️ Customer Experience – Understanding customer demographics to enhance marketing strategies.
 
-Python: For advanced analysis and visualization (using Pandas, Matplotlib, Seaborn, and Plotly).
+✔️ Inventory Management – Identifying top-selling products and regional sales trends.
 
-Power BI: For creating interactive dashboards to present insights.
+✔️ Sustainability – Highlighting opportunities to reduce waste and optimize stock levels.
 
-Process
-Data Collection: Used a synthetic retail dataset to simulate Foot Locker’s sales data.
+This project reflects my passion for leveraging data to solve real-world business challenges, aligning with Foot Locker’s mission to innovate and enhance the retail experience.
 
-Data Cleaning: Handled missing values and prepared the data for analysis using SQL and Python.
+🛠️ Tools & Technologies
 
-Exploratory Data Analysis (EDA): Analyzed sales trends, customer behavior, and product performance using Python visualizations.
+🔹 SQL – Data cleaning, transformation, and aggregation.
 
-Actionable Insights: Identified opportunities for improving sales, reducing waste, and enhancing inclusivity.
+🔹 Python – Advanced data analysis and visualization using:
 
-Visualization and Storytelling: Created interactive dashboards in Power BI and summarized findings in a presentation.
+Pandas,
+Matplotlib, 
+Seaborn, 
+Plotly
+
+🔹 Power BI – Interactive dashboards for presenting insights.
+
+📊 Process Overview
+
+1️⃣ Data Collection
+📥 Used a synthetic retail dataset to simulate Foot Locker’s sales data.
+
+2️⃣ Data Cleaning
+🛠 Handled missing values and ensured data consistency using SQL and Python.
+
+3️⃣ Exploratory Data Analysis (EDA)
+📊 Identified sales trends, customer behavior, and product performance using Python visualizations.
+
+4️⃣ Actionable Insights
+
+🔍 Discovered key opportunities to:
+
+✅ Improve sales performance
+
+✅ Reduce waste and inefficiencies
+
+✅ Enhance marketing inclusivity
+
+
+5️⃣ Visualization & Storytelling
+
+📈 Designed interactive dashboards in Power BI and summarized findings in a compelling presentation.
