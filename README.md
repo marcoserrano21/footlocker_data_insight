@@ -56,3 +56,7 @@ Plotly
 5️⃣ Visualization & Storytelling
 
 📈 Designed interactive dashboards in Power BI and summarized findings in a compelling presentation.
+
+
+![image](https://github.com/user-attachments/assets/09e27cd7-9113-4859-9b60-ab29d39ec7d7)
+
